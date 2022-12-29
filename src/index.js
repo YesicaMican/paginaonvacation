@@ -5,12 +5,13 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Navegador from './Navegador.js';
 import Footer from './Footer';
-
+import Destino from './Destino';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Navegador />
     <App />
+    <Destino />
     <Footer />
   </React.StrictMode>
 );
