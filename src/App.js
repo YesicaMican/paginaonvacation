@@ -1,9 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import fondo from './ADZ Tone 2022-03.jpg'
 
 function App() {
   return (
+    
     <div className="App">
+      
+      <img src={fondo} className="img-fluid" alt="Fondo"></img>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
