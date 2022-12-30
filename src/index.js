@@ -5,13 +5,15 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Navegador from './Navegador.js';
 import Footer from './Footer';
-import Destino from './Destino';
+import MapDestino from './MapDestino';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Navegador />
     <App />
-    <Destino />
+    <h1 className='container-fluid text-center'>San Andres</h1>
+    <MapDestino />
     <Footer />
   </React.StrictMode>
 );

@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import fondo from './ADZ Tone 2022-03.jpg'
+import BR1 from './assets/img/BR1.jpg'
 
 function App() {
   return (
