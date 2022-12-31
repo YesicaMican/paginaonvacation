@@ -12,9 +12,79 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.fondogif{
+  
+  width: 100%;
+}
+.whatsapp-content {
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.whatsapp-btn-svg {
+  display: block;
+  height: 135%;
+  width: 135%;
+  margin-top: -17.5%;
+  margin-left: -17.5%;
+  fill: #fff;
+}
+.whatsapp-btn-svg:hover{
+  fill: #4dc247;
+}
+
+.whatsapp-content .whatsapp-message {
+  width: 100px;
+  height: auto;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid #96c625;;
+  text-align: center;
+  position: relative;
+  margin-bottom: 50px;
+  animation-name: up-down;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+  animation-timing-function: ease-in-out, steps(30);
+  will-change: transform;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s ease-in-out;
+}
+.whatsapp-content .whatsapp-message::after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-right: 15px solid transparent;
+  border-top: 25px solid var(--gray-400);
+  border-left: 15px solid transparent;
+  display: block;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.whatsapp-btn {
+  background-color: #4dc247;
+  border-radius: 50%;
+  display: block;
+  height: 50px;
+  padding: 7px;
+  width: 50px;
+  box-shadow: 3px 3px 5px rgba(0,0,0,0.3);
+}
+.whatsapp-btn:hover{
+  text-decoration: none;
+  background-color: #fff;
+}
 
 .App-header {
-  background-color: #282c34;
+  background-color: #484b48;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

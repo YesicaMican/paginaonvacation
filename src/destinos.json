@@ -5,16 +5,17 @@
       "descripcion": "Gran hotel cerca de la playa",
       "imagen1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306373043.jpg?k=8dd9e4b04e0c07ce7bfff40ed48e39a0f163e0509f0cb143fdc4678ee10b8e95&o=&hp=1",
       "imagen2": "https://q-xx.bstatic.com/xdata/images/hotel/max500/390919321.jpg?k=4e428aaec22fb1a2b2d5d9860e344c4e817470c985c39469a13cf2e6afa80a29&o=",
-      "imagen3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEOXSuayTGI0g0frupCV4qZc3abdnlnExLw&usqp=CAU"
+      "imagen3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEOXSuayTGI0g0frupCV4qZc3abdnlnExLw&usqp=CAU",
+      "ruta":"./App"
     },
     {
       "hotel": "Cove",
       "descripcion": "hotel lejos",
       "imagen1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390922778.jpg?k=5ef22eb1923b0b21b6504bfc0dd87033598a47436633d102048f73255834a78d&o=&hp=1"
     },
-    { "hotel": "bhgf", "descripcion": "g5g45", "imagen1": "gergdgdfjk" },
-    { "hotel": "bhgf", "descripcion": "g5g45", "imagen1": "gergdgdfjk" },
-    { "hotel": "bhgf", "descripcion": "g5g45", "imagen1": "gergdgdfjk" },
-    { "hotel": "bdh", "descripcion": "g5445", "imagen1": "gergjhgdfjk" }
+    { "hotel": "hotel3", "descripcion": "g5g45", "imagen1": "gergdgdfjk" },
+    { "hotel": "hotel4", "descripcion": "g5g45", "imagen1": "gergdgdfjk" },
+    { "hotel": "hotel5", "descripcion": "g5g45", "imagen1": "gergdgdfjk" },
+    { "hotel": "hotel6", "descripcion": "g5445", "imagen1": "gergjhgdfjk" }
   ]
 }
