@@ -2,16 +2,15 @@
   "destinossanandres": [
     {
       "hotel": "Blue Reef",
-      "descripcion": "Gran hotel cerca de la playa",
-      "imagen1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306373043.jpg?k=8dd9e4b04e0c07ce7bfff40ed48e39a0f163e0509f0cb143fdc4678ee10b8e95&o=&hp=1",
-      "imagen2": "https://q-xx.bstatic.com/xdata/images/hotel/max500/390919321.jpg?k=4e428aaec22fb1a2b2d5d9860e344c4e817470c985c39469a13cf2e6afa80a29&o=",
-      "imagen3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEOXSuayTGI0g0frupCV4qZc3abdnlnExLw&usqp=CAU",
+      "descripcion": "Ubicado en el sector de Sarie Bay a 10 minutos del centro de San Andrés y del Aeropuerto, de fácil acceso al transporte público. Ofrece a los huéspedes piscina descubierta con bañera de hidromasajes y piscina para niños.",
+      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/323366779_1246868376212986_3812542021461608433_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=6dQok9Imr0kAX9Esots&tn=SLYa7KHqbWSOXmFH&_nc_ht=scontent.fbog15-1.fna&oh=00_AfAz58O6VNdBxvMCOIQjaEsN8lPGR7HubHh0xmyIwGeYnA&oe=63BA5A2C",
       "ruta":"./App"
     },
     {
       "hotel": "Cove",
       "descripcion": "hotel lejos",
-      "imagen1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390922778.jpg?k=5ef22eb1923b0b21b6504bfc0dd87033598a47436633d102048f73255834a78d&o=&hp=1"
+      "imagen1": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/322233338_861609678508414_3213025817959924007_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=pNmgtCcWOQUAX9vHrrz&_nc_ht=scontent.fbog15-1.fna&oh=00_AfCaA1a5dsWcJFDuVWA0XRobPxBJlePtj5qMebBXwK0Uqg&oe=63BA9D59",
+      "imagen2":"https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/322389147_1129955947712070_942551295799408703_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=tG4tsu8k5aoAX8_pXaU&_nc_ht=scontent.fbog15-1.fna&oh=00_AfB5iAfJ7VzgJ-pC2JU9tRA0-D0AG-6yi2FfUDxQEYzLyw&oe=63BB5503"
     },
     { "hotel": "hotel3", "descripcion": "g5g45", "imagen1": "gergdgdfjk" },
     { "hotel": "hotel4", "descripcion": "g5g45", "imagen1": "gergdgdfjk" },
