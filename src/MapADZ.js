@@ -1,17 +1,18 @@
 import React from "react";
 import destinos from "./destinos.json";
 
-function MapDestino() {
+function MapADZ() {
   return (
-    <div classNameName="container">
-      <div classNameName="row">
+    <div className="container">
+      <div className="row">
         {destinos.destinossanandres.map((sanandres) => {
           return (
             <div className="col-sm-4" key={sanandres.hotel}>
             <div className="card text-center mt-4">
+              
+            <img src={sanandres.imagen} className="" alt="..."/>
             <h5 className="card-title">{sanandres.hotel}</h5>
             <p className="card-text ">{sanandres.descripcion}</p>
-            <img src={sanandres.imagen} className="" alt="..."/>
             <button variant="contained" className="btn btn-primary">
               <link rel="" type="" href="./hoteles/bluereef.js"/>
               Mas información hotel {sanandres.hotel}
@@ -27,4 +28,4 @@ function MapDestino() {
   );
 }
 
-export default MapDestino;
+export default MapADZ;

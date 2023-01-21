@@ -9,23 +9,22 @@ function Navegador() {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Inicio</a>
+          <a className="nav-link active" aria-current="page" href="http://www.google.com">Inicio</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Destinos</a>
+          <a className="nav-link" href="http://www.google.com">Destinos</a>
         </li>
         <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a className="nav-link dropdown-toggle" href="http://www.google.com" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Acerca de
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">Contáctenos</a></li>
-            <li><a className="dropdown-item" href="#">Quienes Somos</a></li>
+            <li><a className="dropdown-item" href="http://www.google.com">Contáctenos</a></li>
+            <li><a className="dropdown-item" href="http://www.google.com">Quienes Somos</a></li>
             <li><hr className="dropdown-divider"/></li>
           </ul>
         </li>
         <li className="nav-item">
-          <a className="nav-link disabled">Disabled</a>
         </li>
       </ul>
       <form className="d-flex" role="search">

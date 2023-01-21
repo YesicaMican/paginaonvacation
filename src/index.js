@@ -5,15 +5,20 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Navegador from './Navegador.js';
 import Footer from './Footer';
-import MapDestino from './MapDestino';
-
+import MapADZ from './MapADZ';
+import MapRCH from './MapRCH';
+import MapCTG from './MapCTG';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Navegador />
     <App />
     <h1 className='container-fluid text-center'>San Andres</h1>
-    <MapDestino />
+    <MapADZ />
+    <h1 className='container-fluid text-center'>Guajira</h1>
+    <MapRCH />
+    <h1 className='container-fluid text-center'>Cartagena</h1>
+    <MapCTG />
     <Footer />
   </React.StrictMode>
 );

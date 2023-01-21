@@ -1,20 +1,58 @@
 {
   "destinossanandres": [
     {
-      "hotel": "Blue Reef",
+      "hotel": "Hotel Blue Reef",
       "descripcion": "Ubicado en el sector de Sarie Bay a 10 minutos del centro de San Andrés y del Aeropuerto, de fácil acceso al transporte público. Ofrece a los huéspedes piscina descubierta con bañera de hidromasajes y piscina para niños.",
-      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/323366779_1246868376212986_3812542021461608433_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=6dQok9Imr0kAX9Esots&tn=SLYa7KHqbWSOXmFH&_nc_ht=scontent.fbog15-1.fna&oh=00_AfAz58O6VNdBxvMCOIQjaEsN8lPGR7HubHh0xmyIwGeYnA&oe=63BA5A2C",
-      "ruta":"./App"
+      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/321959119_3055893434710605_5811378793225689609_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=4c95PgyRmwcAX9-nmrF&_nc_ht=scontent.fbog15-1.fna&oh=00_AfAGZS16UsbdvszKaYGg_THHA-LO-nkgzaW3sMvsaOHuUg&oe=63D0F25B",
+      "ruta": "./App"
     },
     {
-      "hotel": "Cove",
-      "descripcion": "hotel lejos",
-      "imagen1": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/322233338_861609678508414_3213025817959924007_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=pNmgtCcWOQUAX9vHrrz&_nc_ht=scontent.fbog15-1.fna&oh=00_AfCaA1a5dsWcJFDuVWA0XRobPxBJlePtj5qMebBXwK0Uqg&oe=63BA9D59",
-      "imagen2":"https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/322389147_1129955947712070_942551295799408703_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=tG4tsu8k5aoAX8_pXaU&_nc_ht=scontent.fbog15-1.fna&oh=00_AfB5iAfJ7VzgJ-pC2JU9tRA0-D0AG-6yi2FfUDxQEYzLyw&oe=63BB5503"
+      "hotel": "Hotel Blue Cove",
+      "descripcion": "Hotel tipo turista ubicado en la Ensenada del Cove, en la zona rocosa de la isla, lugar óptimo para caretear y bucear donde se encuentran las piscinas naturales.",
+      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/322389147_1129955947712070_942551295799408703_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=Buz44_-aTEEAX-jjEiR&tn=13G6SX0D24Au0qyW&_nc_ht=scontent.fbog15-1.fna&oh=00_AfDONtcxMC02ozY0eh7vvxw2hVXcKo_xYU3KXrdqMwe-TA&oe=63D115C3"
     },
-    { "hotel": "hotel3", "descripcion": "g5g45", "imagen1": "gergdgdfjk" },
-    { "hotel": "hotel4", "descripcion": "g5g45", "imagen1": "gergdgdfjk" },
-    { "hotel": "hotel5", "descripcion": "g5g45", "imagen1": "gergdgdfjk" },
-    { "hotel": "hotel6", "descripcion": "g5445", "imagen1": "gergjhgdfjk" }
+    {
+      "hotel": "Hotel Tower",
+      "descripcion": "Hotel tipo turista ubicado en la zona comercial de San Andrés con facilidad para realizar compras de souvenirs.",
+      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/326397666_704576731110217_2901503838185381613_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=ZODCzGEwr6wAX_GfqwK&tn=13G6SX0D24Au0qyW&_nc_ht=scontent.fbog15-1.fna&oh=00_AfD2dsvYQ02VZ2YRy7AfxFZQbS9zM7fCGpO-4fn1M8bNJQ&oe=63D040E9"
+    },
+    {
+      "hotel": "Hotel Toné",
+      "descripcion": "Hotel tipo turista ubicado frente a la playa principal de la isla de San Andrés en la vía peatonal a tan solo 5 minutos del aeropuerto y 3 minutos de la zona comercial, rodeado de restaurante y bares.",
+      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/322883783_839726333775048_3234012494813314405_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=AmKbHsWB1uQAX9ECN1G&_nc_ht=scontent.fbog15-1.fna&oh=00_AfAGW9ykr7pIuep4oaDfjfOR4kHwc9NTlzUQ9yr5Z5hKtg&oe=63CF3FC4"
+    },
+    {
+      "hotel": "Hotel Coral Flower",
+      "descripcion": "Hotel tipo turista, ubicado en pleno centro de la Isla, cerca de las playas principales de San Andrés.",
+      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/321947641_3388758291380112_4282642712454751521_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=0debeb&_nc_ohc=h7pC2aAe2ksAX8hylPB&_nc_ht=scontent.fbog15-1.fna&oh=00_AfCy30Tg6aAlnYdWkj2d1FQdcE1f0kFDl2ILuf9_VfbT3Q&oe=63D08FA6"
+    },
+    {
+      "hotel": "Hotel Magic Hill",
+      "descripcion": "Ubicado en el sector de la loma frente a la primera iglesia Bautista, a tan solo 20 minutos del aeropuerto y a 10 minutos del centro.",
+      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/326310017_1372823766823302_5187802359258861770_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=ZihhZF8lJDMAX8nW9b8&_nc_ht=scontent.fbog15-1.fna&oh=00_AfDY9hUhUhTtaeYMGCTtwre130SD-0-ZKXNLmF-ftBKPbg&oe=63D107C7"
+    }
+  ],
+  "destinoguajira": [
+    {
+      "hotel": "Hotel Wayira Beach",
+      "descripcion": "Ubicado sobre la playa Mayapo el Hotel On Vacation Wayira es el lugar perfecto para vivir el encanto de la Guajira. El hotel se encuentra ubicado a tan solo 232 mts. de la playa, a 30 minutos del aeropuerto de Riohacha y a 2 horas de Santa Marta.",
+      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/322872517_3549804285242328_8305520748286628307_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=PFUqeBnqDSoAX8hUOsw&_nc_oc=AQmpra5kRNsUOwGmlRb86dkGswsy1eSRscmzVu-DJieTZeRt5ArP6BKQG4_xNIK9pqM&_nc_ht=scontent.fbog15-1.fna&oh=00_AfAFo-alhO4c-eeWR6m-ox31Zv6kZdBMRIEnzMzGQLXgmg&oe=63D11012",
+      "ruta": "./App"
+    }
+
+  ],
+  "destinoctg":[
+    {
+      "hotel": "Hotel Caribe",
+      "descripcion": "Este lujoso Hotel de elegante arquitectura colonial, es uno de los alojamientos más emblemáticos de la ciudad y considerado uno de los monumentos nacionales de Cartagena, está ubicado en Bocagrande. Cuenta con acceso directo a la playa, esta rodeado de extensos y hermosos jardines tropicales en donde es posible en algunos casos divisar especies animales propias de la región como perezosos, tucanes y ciervos.",
+      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/326217837_1433308590409577_6128468367081485568_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_ohc=zwaXDN6-MsMAX-fL__M&_nc_ht=scontent.fbog15-1.fna&oh=00_AfAVd1j4wImL7FXP5lXumoyIr7BOxGGT9l3AeUrBUYeP5w&oe=63CF7795",
+      "ruta": "./App"
+    },
+    {
+      "hotel": "Hotel Casa la Factoria",
+      "descripcion": "Vive una estadía inolvidable en el corazón de Cartagena en Hotel Casa La Factoria by Faranda Boutique, miembro de Radisson Individuals. Un hito restaurado del siglo XVI ubicado a dos cuadras de la Plaza de Santo Domingo, nuestro hotel lo ubica a pasos de la Iglesia de Santo Domingo y a solo 10 minutos a pie del Museo del Oro Zenú.",
+      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/326484853_1646655109113340_4652192945335942293_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=ngMEBYPBLUoAX8LkNtV&_nc_ht=scontent.fbog15-1.fna&oh=00_AfCgyIQXCIgJkEs-BrWmPpGG86DtgVItPLt0SUmK6476CA&oe=63CF7FD5",
+      "ruta": "./App"
+    }
   ]
 }
