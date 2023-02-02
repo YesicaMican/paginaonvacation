@@ -1,18 +1,18 @@
 import React from 'react'
 import destinos from "./destinos.json"
-function MapCTG() {
+function MAPCUN() {
   return (
     <div className="container">
     <div className="row">
-      {destinos.destinoctg.map((Cartagena) => {
+      {destinos.destinocun.map((cancun) => {
         return (
-          <div className="col-sm-4 m-2" key={Cartagena.hotel}>
+          <div className="col-sm-4 m-2" key={cancun.hotel}>
           <div className="card text-bg-dark">
-          <img src={Cartagena.imagen} className="" alt="..."/>
+          <img src={cancun.imagen} className="" alt="..."/>
           <div className="card-img-overlay">
-            <h5 className="card-title">{Cartagena.hotel}</h5>
+            <h5 className="card-title">{cancun.hotel}</h5>
             <button variant="contained" className="btn btn-outline-light"><small>Más información</small></button>
-            <p className="card-text">{Cartagena.descripcion}</p>
+            <p className="card-text">{cancun.descripcion}</p>
           </div>
         </div>
         </div>
@@ -23,7 +23,8 @@ function MapCTG() {
    
 </div>
   )
+
 }
 
-export default MapCTG
+export default MAPCUN
 

@@ -1,18 +1,18 @@
 import React from 'react'
 import destinos from "./destinos.json"
-function MapRCH() {
-    return (
-        <div className="container">
+function MAPGir() {
+  return (
+    <div className="container">
             <div className="row">
-                {destinos.destinoguajira.map((guajira) => {
+                {destinos.destinogirardot.map((girardot) => {
                     return (
-                        <div className="col-sm-4 m-2" key={guajira.hotel}>
+                        <div className="col-sm-4 m-2" key={girardot.hotel}>
                         <div className="card text-bg-dark">
-                        <img src={guajira.imagen} className="" alt="..."/>
+                        <img src={girardot.imagen} className="" alt="..."/>
                         <div className="card-img-overlay">
-                          <h5 className="card-title">{guajira.hotel}</h5>
+                          <h5 className="card-title">{girardot.hotel}</h5>
                           <button variant="contained" className="btn btn-outline-light"><small>Más información</small></button>
-                          <p className="card-text">{guajira.descripcion}</p>
+                          <p className="card-text">{girardot.descripcion}</p>
                         </div>
                       </div>
                       </div>
@@ -25,4 +25,5 @@ function MapRCH() {
     )
 }
 
-export default MapRCH
+export default MAPGir
+

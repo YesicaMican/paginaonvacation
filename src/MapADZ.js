@@ -1,23 +1,23 @@
-import React from "react";
+import {React} from "react";
 import destinos from "./destinos.json";
-
+//import { useNavigate } from "react-router-dom";
+  
 function MapADZ() {
+  //const navigate=useNavigate();
   return (
     <div className="container">
       <div className="row">
         {destinos.destinossanandres.map((sanandres) => {
           return (
-            <div className="col-sm-4" key={sanandres.hotel}>
-            <div className="card text-center mt-4">
-              
+            <div className="col-sm-4 m-2" key={sanandres.hotel}>
+            <div className="card text-bg-dark">
             <img src={sanandres.imagen} className="" alt="..."/>
-            <h5 className="card-title">{sanandres.hotel}</h5>
-            <p className="card-text ">{sanandres.descripcion}</p>
-            <button variant="contained" className="btn btn-primary">
-              <link rel="" type="" href="./hoteles/bluereef.js"/>
-              Mas información hotel {sanandres.hotel}
-            </button>
-        </div> 
+            <div className="card-img-overlay">
+              <h5 className="card-title">{sanandres.hotel}</h5>
+          <button variant="contained" className="btn btn-outline-light" ></button>
+              <p className="card-text">{sanandres.descripcion}</p>
+            </div>
+          </div>
           </div>
           );
         })}

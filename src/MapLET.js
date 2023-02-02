@@ -1,21 +1,21 @@
 import React from 'react'
 import destinos from "./destinos.json"
-function MapCTG() {
+function MapLET() {
   return (
     <div className="container">
     <div className="row">
-      {destinos.destinoctg.map((Cartagena) => {
+      {destinos.destinoamazonas.map((amazonas) => {
         return (
-          <div className="col-sm-4 m-2" key={Cartagena.hotel}>
+          <div className="col-sm-4 m-2" key={amazonas.hotel}>
           <div className="card text-bg-dark">
-          <img src={Cartagena.imagen} className="" alt="..."/>
+          <img src={amazonas.imagen} className="" alt="..."/>
           <div className="card-img-overlay">
-            <h5 className="card-title">{Cartagena.hotel}</h5>
+            <h5 className="card-title">{amazonas.hotel}</h5>
             <button variant="contained" className="btn btn-outline-light"><small>Más información</small></button>
-            <p className="card-text">{Cartagena.descripcion}</p>
+            <p className="card-text">{amazonas.descripcion}</p>
           </div>
         </div>
-        </div>
+        </div>  
         );
       })}
       
@@ -25,5 +25,4 @@ function MapCTG() {
   )
 }
 
-export default MapCTG
-
+export default MapLET
