@@ -10,7 +10,8 @@
     {
       "hotel": "Hotel Blue Cove",
       "descripcion": "Hotel tipo turista ubicado en la Ensenada del Cove, en la zona rocosa de la isla, lugar óptimo para caretear y bucear donde se encuentran las piscinas naturales.",
-      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/322389147_1129955947712070_942551295799408703_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=0utaTC0RGVQAX8PiyNM&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog15-1.fna&oh=00_AfDMEpgRekLSVyTWPjAhYSRy5fmiWvpNGMY49ZGF1DID4g&oe=63DEED83"
+      "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/322389147_1129955947712070_942551295799408703_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=0utaTC0RGVQAX8PiyNM&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog15-1.fna&oh=00_AfDMEpgRekLSVyTWPjAhYSRy5fmiWvpNGMY49ZGF1DID4g&oe=63DEED83",
+      "masinformacion": "bluereef"
     },
     {
       "hotel": "Hotel Tower",

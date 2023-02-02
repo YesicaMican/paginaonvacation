@@ -1,8 +1,8 @@
 function Navegador() {
     return (
-        <nav className="navbar navbar-expand-lg navbar-fixed-top bg-body-tertiary" style={{position:"fixed", width:"100%"}}>
-  <div className="container-fluid">
-    <a className="navbar-brand" href="https://osiris.onvacation.com/#/login">Viaja Todo Incluido </a>
+        <nav className="navbar navbar-expand-lg navbar-fixed-top bg-body-tertiary front-nav" style={{position:"fixed", width:"100%",zIndex:"1000"}}>
+  <div className="container-fluid" >
+    <a className="navbar-brand" href="/">Viaja Todo Incluido </a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>

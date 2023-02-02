@@ -1,8 +1,11 @@
 import React from 'react'
 
-function bluereef() {
+function Bluereef() {
   return (
   <div>
+    <br/>
+    <br/>
+    <br/>
     <h1>Blue</h1>
     
     
@@ -11,4 +14,4 @@ function bluereef() {
   
 }
 
-export default bluereef
+export default Bluereef
