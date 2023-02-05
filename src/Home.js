@@ -1,4 +1,5 @@
 import React from 'react'
+import {useState} from 'react';
 import MapADZ from "./MapADZ";
 import MapRCH from "./MapRCH";
 import MapCTG from "./MapCTG";
@@ -10,6 +11,7 @@ import App from "./App";
 import "./App.css"
 
 function Home() {
+  const [showMessage, setShowMessage] = useState(false);
   return (
   <>
   <App />

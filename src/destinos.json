@@ -11,7 +11,7 @@
       "hotel": "Hotel Blue Cove",
       "descripcion": "Hotel tipo turista ubicado en la Ensenada del Cove, en la zona rocosa de la isla, lugar óptimo para caretear y bucear donde se encuentran las piscinas naturales.",
       "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/322389147_1129955947712070_942551295799408703_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=0utaTC0RGVQAX8PiyNM&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog15-1.fna&oh=00_AfDMEpgRekLSVyTWPjAhYSRy5fmiWvpNGMY49ZGF1DID4g&oe=63DEED83",
-      "masinformacion": "bluereef"
+      "masinformacion": "bluecove"
     },
     {
       "hotel": "Hotel Tower",
@@ -106,7 +106,7 @@
     ,
     {
       "hotel": "Hotel RIU Dunamar",
-      "descripcion": "Se encuentra ubicado al borde de una paradisíaca playa en Costa Mujeres, Quintana Roo, a unos 30 kilómetros de la zona hotelera de Cancún. Este hotel en Cancún - Costa Mujeres con Todo Incluido 24 horas cuenta con WiFi gratuito en todo el hotel, una amplia oferta gastronómica y los mejores servicios para que disfrutes de unas vacaciones inolvidables con RIU Hotels & Resorts.",
+      "descripcion": "Se encuentra ubicado al borde de una paradisíaca playa en Costa Mujeres, Quintana Roo, a unos 30 kilómetros de la zona hotelera de Cancún. Este hotel en Cancún - Costa Mujeres con Todo Incluido 24 horas cuenta con WiFi gratuito en todo el hotel",
       "imagen": "https://scontent.fbog15-1.fna.fbcdn.net/v/t39.30808-6/326222752_1812048379159709_4755050395381493507_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_ohc=ndDHpoC7VcEAX-2dmxT&_nc_ht=scontent.fbog15-1.fna&oh=00_AfCBNa9JURu8yj8peJZqRn-kF8p4LupFmdgRDV5mj4MNLw&oe=63DEBF39",
       "ruta": "./App"
     }

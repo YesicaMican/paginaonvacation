@@ -10,6 +10,7 @@ import Navegador from "./Navegador.js";
 import Footer from "./Footer";
 import Bluereef from "./hoteles/Bluereef";
 import Home from "./Home";
+import Bluecove from "./hoteles/Bluecove";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
@@ -18,7 +19,8 @@ root.render(
       
       <Routes>
         <Route path="/" element={<Home/>}/>
-        <Route path="/blueReef" element={<Bluereef />} />
+        <Route path="/bluereef" element={<Bluereef />} />
+        <Route path="/bluecove" element={<Bluecove />} />
       </Routes>
 
       <Footer />

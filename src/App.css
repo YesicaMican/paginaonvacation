@@ -85,6 +85,7 @@
 .whatsapp-btn:hover{
   text-decoration: none;
   background-color: #fff;
+  
 }
 
 .App-header {
@@ -109,4 +110,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.justify {
+
+  text-align:left;
+  padding: 50px;
+}
+
+.carousel{
+
+  height:auto;
+  width: 260%;
+
+}
+.titulo {
+  font-size: 30px;
+}
+.clic{
+  top:-200px;
 }
