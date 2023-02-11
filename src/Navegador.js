@@ -9,10 +9,10 @@ function Navegador() {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="http://www.google.com">Inicio</a>
+          <a className="nav-link active" aria-current="page" href="/">Inicio</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="http://www.google.com">Destinos</a>
+          <a className="nav-link" href="/">Destinos</a>
         </li>
         <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" href="http://www.google.com" role="button" data-bs-toggle="dropdown" aria-expanded="false">

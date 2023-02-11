@@ -121,7 +121,7 @@
 .carousel{
 
   height:auto;
-  width: 260%;
+  width: 50%;
 
 }
 .titulo {
@@ -129,4 +129,36 @@
 }
 .clic{
   top:-200px;
+}
+
+.mapa{
+  margin-left: 20%;
+}
+
+.reco{
+
+  font-size:17px; 
+  font-family:"Latin Modern Roman";
+  text-align: justify;
+
+}
+.title{
+  color: #e42b12;
+  font-size:25px;
+
+}
+.bluereef1{
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 30px;  
+
+}
+.servicios{
+  margin-bottom: 30px;
+  text-align: center;
+  line-height: 0.5;
+  font-family:"Latin Modern Roman";
+}
+.video {
+  margin-left: 25%;
 }
