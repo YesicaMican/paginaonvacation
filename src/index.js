@@ -16,7 +16,9 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Navegador />
-      
+      <br/>
+      <br/>
+      <br/>
       <Routes>
         <Route path="/" element={<Home/>}/>
         <Route path="/bluereef" element={<Bluereef />} />

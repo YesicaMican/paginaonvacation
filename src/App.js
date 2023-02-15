@@ -5,21 +5,21 @@ import { useState } from 'react';
 function App() {
   const [showMessage, setShowMessage] = useState(false);
   return (
-    <div>
+    <div className="divportada">
       <img
         src={fondogif}
         className="img-fluid fondogif"
         alt="Fondo"
       ></img>
-      <div className="whatsapp-content">
-
-        <div className="js-whatsapp-message whatsapp-message">
-        
+      <div className="whatsapp-content" style={{alignItems:"initial"}} >        
+        <div className=" bg-dark m-2 divclic" style={{width:"150px",height:"auto"}}>
+          <h4 className=" text-bg-light clic text-center m-2" hidden={!showMessage} >Estás a un click de tus mejores vacaciones</h4>
         </div>
         <button
           className="js-whatsapp-btn whatsapp-btn"
           href="https://wa.me/573153201677"
           target="_blank" rel="noreferrer"
+          style={{justifyItems:"left"}}
           onMouseEnter={() => {
             setShowMessage(true);
           }}
@@ -34,7 +34,6 @@ function App() {
           </svg>
           
         </button>
-        {showMessage && <h1 className="clic">Da click Aquí</h1>}
         
       </div>
     </div>
