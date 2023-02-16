@@ -9,13 +9,13 @@ function Bluereef() {
         <div id="carouselExample" className="carousel slide col-lg-6">
           <div className="carousel-inner">
             <div className="carousel-item active" >
-              <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322577983_840447177236761_1310888636953568389_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeEJ2_bidRf66lTgkeGTaCE3uo39Jfd7rae6jf0l93utp5U8W_XIcaCYaUAVtijt1_1aLibbK-InF543Xb3InT0H&_nc_ohc=uBrXtuqPNbMAX8SNYQf&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAq7xGf-lMh7tijRhRaVpKSDPBAwC-zBRsfjW81LbzXtQ&oe=63E22EC7" className="img-fluid" alt="..." />
+              <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331161237_489792959830251_4978886755452587777_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeENE8c4fqCbI02Je6x83reVhfOc2b0QeiCF85zZvRB6IFWciLLroXLut1JCODJD2fJwIv5VnCEClkyuu_xgS6qt&_nc_ohc=ffuD0UdrgG4AX-eqo_d&_nc_ht=scontent.fbog14-1.fna&oh=00_AfDxSv_bhPGqdnyXIHA7XiJlD24CUK-dGSyIKRJAzKzR1A&oe=63F46414" className="img-fluid" alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/321959119_3055893434710605_5811378793225689609_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeF3maRxOO_NWwil6EGAkg_K77Q-PY7dAnzvtD49jt0CfH0roHrU4_8-XDXPVmC6ja33XW9ppP5ME3rXvaQJ8ox2&_nc_ohc=B8dVr3qg6ToAX9b5Y4H&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBmiQnVPi4zGeO2eK08FMaacOlw9rWd02WOrEab-QKbKA&oe=63E2BE9B" className="img-fluid" alt="..." />
+              <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331144017_749697909829161_1895837829719872380_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFfn4mBrcOK-o79b938YyII_nBcG6p_pyz-cFwbqn-nLITXe90MBIms-3LKNplUHAC-R_2ketTrp7Sng0tGWeKB&_nc_ohc=n9lWm153eWsAX_wFPqP&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBqpDpWCp4fZ2MADHIGG4tQcHWsI28nTdXwBmaNrsCEWA&oe=63F333C4" className="img-fluid" alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322191362_684815300031628_760884457486573458_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeF9MoxgHGbkqF5AenARaKaUAD5pYYQpteoAPmlhhCm16koWdKAOE6YJGWuJ4Oh91tNmRVkyTc7S5yneK2xwgviM&_nc_ohc=zlhjQOFvpQ8AX8RhkVP&_nc_ht=scontent.fbog14-1.fna&oh=00_AfA5QQAMVmr88PoCx9IBWan6xza-NAteRQpzkS6ZwCkDQA&oe=63E1FD26" className="img-fluid" alt="..." />
+              <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331065382_521959366500892_1771094230854657439_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEB1EL8-TI0BHvPPpymdDgO9cJbfzX0zJb1wlt_NfTMlp9Kx2gAZdrd2fIA8X4vQBy550fQuW2cyf1Sz_ecetB5&_nc_ohc=j0N8l-WAoJwAX_FiFgg&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBO6NKO9mNJhOfvf0I1tQalZ3_N8sKV0b36SYTgvjUesA&oe=63F420B0" className="img-fluid" alt="..." />
             </div>
           </div>
           <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">

@@ -1,24 +1,25 @@
 import React from 'react'
 
-function Bluecove() {
-    return (
-        <div className='justify'>
+export default function Tone() {
+  return (
+    <div className='justify'>
             <br />
             <br />
-            <h1>Blue Cove</h1>
+            <h1>Toné</h1>
             <div className='justify'>
-                <p > Hotel tipo turista ubicado en la Ensenada del Cove, en la zona rocosa de la isla, lugar óptimo para caretear y bucear donde se encuentran las piscinas naturales</p>
+                <p > Hotel tipo turista ubicado frente a la playa principal de la isla de San Andrés en la vía
+peatonal a tan solo 5 minutos del aeropuerto y 3 minutos de la zona comercial, rodeado de restaurante y bares</p>
                 <div style={{ display: "flex" }}>
                     <div id="carouselExample" className="carousel slide ">
                         <div className="carousel-inner">
                             <div className="carousel-item active" >
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331077813_1534367100383691_7842332562102290024_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFejPkmFhp8tRq4FTPHKCINzu2G2bsDZD3O7YbZuwNkPbU440ybxGc7t6_VJVIc5_R9ws95tbgmlb_izKjC8Zeu&_nc_ohc=9exOlgiaPU0AX--dFeM&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCjLkvgvNSpw9WF-IaZDYgQYw7xM_vt6y_slmgUlYjLSQ&oe=63F45389" className="img-fluid" alt="..." />
+                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322163969_1303993830163264_8930410637272163135_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_ohc=izbODqayOkEAX_2sc-i&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAzaUsAQ66Bl_pWlXFRSBzaW9yo1fkjS1kWXU3-6-xw4g&oe=63F463AA" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/330929011_884215189364643_230636709583798578_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHb37HNHClhcXOQMQ3l1RkiARbroxpHJxwBFuujGkcnHNp4z0IVv2CL2jI1XtTkk3o4nZCg9Oy1-Sl7JBsi82Dw&_nc_ohc=d63nRqx3IKoAX9xXBsz&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBLINeGnR-CnVn_IekQQ4YeSXPxODp7l4Ei_F36TPVX5Q&oe=63F490BA" className="img-fluid" alt="..." />
+                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/321943801_472191168419730_568167656291452245_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0debeb&_nc_ohc=7g5N9Ja8pLcAX8K5J93&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCgAoe3p8f5TFdCKC7Fc95Cd9o7-yc9P_XjSrvOVWKmDg&oe=63F38038" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/330843025_732120091620440_9001962016141863009_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGbGUq9bR6cd35Nnj2lSxMOUUsCkF3GTTtRSwKQXcZNOwaoZkb_eM3znKdajG0MMbJFFwPDCVai9Xa36RI4NWSb&_nc_ohc=PGV-GYJKKeUAX9nJDXn&_nc_ht=scontent.fbog14-1.fna&oh=00_AfDbNTKbKDgNK_eR1FHgzbnhUI3kFYtoPIRtoZQFaHGMfA&oe=63F40C1C" className="img-fluid" alt="..." />
+                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322588257_702709961238580_5024522546096351721_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=PNIdB5h6oTUAX9Sxbe8&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfB6dX83MQOO7u89Oy4RMnwLBuCRpywwLaI11zLUg8bevQ&oe=63F35BC0" className="img-fluid" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -34,13 +35,13 @@ function Bluecove() {
                         <br />
                         <br />
                         <h2 className=' text-center' >Ubicación</h2>
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/329191020_2416890915127049_2685708647209184058_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=hANExwE-ROEAX8vdKVE&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAE4dU-cRtmyF8hkqSRv20WT94tfqAe6z28gcOkg8qHMA&oe=63EB7D4C" class="img-fluid mapa" alt="..." width="60%" />
+                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331047730_1311959596053582_5462228321709579197_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeF3rBQMw9fyO8TghFaGlzMZmS417MiYeG6ZLjXsyJh4bkwpd55ucYBf8jHHJp8ziPSqFdVWogn2WzPjFA__bgIm&_nc_ohc=J4VpKO7gDd4AX9yqqKN&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBpOoeXtUrbhKOX9gRjPySBvKGj5WegF88IF9DXDMQKRQ&oe=63F46653" class="img-fluid mapa" alt="..." width="60%" />
                     </div>
                 </div>
             </div>
 
             <br />
-      <iframe width="700" height="400" src="https://www.youtube.com/embed/EfcfC94htnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/D1uZta7OI0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
       <br />
       <br />
       <div className='servicios'>
@@ -49,8 +50,10 @@ function Bluecove() {
       <br />
       <p> Recepción 24 horas</p>
       <p> Bar</p>
-      <p> Restaurante</p>
+      <p> Restaurantes</p>
       <p> Piscina</p>
+      <p> Torre con ascensor</p>
+      <p> Food Paradise (servicio de pago adicional)</p>
       </div>
       <br />
             <div className="row">
@@ -58,16 +61,16 @@ function Bluecove() {
                     <h1 className='title'>
                         ¿Dónde queda?
                     </h1>
-                    <p>Desde el aeropuerto Gustavo Rojas Pinilla a 5 minutos en vehículo aproximadamente y desde el centro de San Andrés a 3 a 5 minutos en vehículo aproximadamente.</p>
+                    <p>Desde el aeropuerto Gustavo Rojas Pinilla a 7 minutos en vehículo aproximadamente y desde el centro de San Andrés a 8 minutos en vehículo aproximadamente.</p>
 
                     <h1 className='title'>
                         ¿Qué servicios tiene mi habitación?
                     </h1>
-                    <p> Tu habitación contará con televisión con señal por cable, aire acondicionado, caja de seguridad, baño privado con ducha, algunas habitaciones tienen vista parcial al mar.</p>
+                    <p> Tu habitación contará con televisión con señal por cable, aire acondicionado, caja de seguridad, baño privado con ducha</p>
                     <h1 className='title'>
                         ¿Cuáles son los puntos turísticos cercanos al hotel?
                     </h1>
-                    <p> Sendero peatonal, Coco Loco, Playa Spratt Bight.</p>
+                    <p> Sendero peatonal, Coco Loco, playa Spratt Bight.</p>
                 </div>
                 <div className="col-lg-6 reco">
                     <h1 className='title'>
@@ -85,8 +88,5 @@ function Bluecove() {
                 </div>
             </div>
         </div>
-
-    )
+  )
 }
-
-export default Bluecove

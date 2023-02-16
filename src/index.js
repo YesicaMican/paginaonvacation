@@ -12,6 +12,7 @@ import Bluereef from "./hoteles/Bluereef";
 import Home from "./Home";
 import Bluecove from "./hoteles/Bluecove";
 import Tower from "./hoteles/Tower";
+import Tone from "./hoteles/Tone";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
@@ -25,6 +26,7 @@ root.render(
         <Route path="/bluereef" element={<Bluereef />} />
         <Route path="/bluecove" element={<Bluecove />} />
         <Route path="/tower" element={<Tower />} />
+        <Route path="/tone" element={<Tone />} />
       </Routes>
 
       <Footer />

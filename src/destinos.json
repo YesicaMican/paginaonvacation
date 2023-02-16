@@ -3,14 +3,14 @@
     {
       "hotel": "Hotel Blue Reef",
       "descripcion": "Ubicado en el sector de Sarie Bay a 10 minutos del centro de San Andrés y del Aeropuerto",
-      "imagen": "https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/323366779_1246868376212986_3812542021461608433_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=RSznUe-YybgAX-GA8o0&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBdxrGtGZ1Kul998yrd2-p6aOj_NbNtrEvyb5E9U_Ydmg&oe=63EBCA6C ",
+      "imagen": "https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331134945_2311630299015751_3928918444925253364_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGbloMAP2ePOlwbQDgid-yOmjyWqtLUsjyaPJaq0tSyPDjCzW3zv9x3uZP1tj3Axjp2UOPzdCnu-bqDP9phz4V9&_nc_ohc=1ZiOmRHYOEgAX_3o0py&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCf_qTlWUIuGHLmHJ_PkHOPsMgVjGnt5UxN3uotw_SYlw&oe=63F30E76",
       "ruta": "./App",
       "masinformacion": "bluereef"
     },  
     {
       "hotel": "Hotel Blue Cove",
       "descripcion": "Hotel tipo turista ubicado en la Ensenada del Cove, en la zona rocosa de la isla, a 20 minutos del centro de San Andrés",
-      "imagen": "https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322233338_861609678508414_3213025817959924007_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=NLOMKxUtkskAX-M6usq&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfB2o7AiWi7th4UrNM6dBr7OlAfS4QtGnZv2Yx4RBGxc9Q&oe=63EC0D99",
+      "imagen": "https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331158293_719161009757169_8846684042115093923_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeG8GYoBZ4tQAJRMnQ7Jdlkm_3kBiHLNoUj_eQGIcs2hSPn4ZCjAFecV9sxWGimXHzlCK3paWZOQliCwB5K69_Ys&_nc_ohc=CeFJ0BHifmcAX8moHP4&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBVCL5afWdVqEx-WImzSMrmrgKIDRY0kW--HTplu2oIdw&oe=63F397FA",
       "masinformacion": "bluecove"
     },
     {
@@ -22,7 +22,8 @@
     {
       "hotel": "Hotel Toné",
       "descripcion": "Hotel tipo turista ubicado frente a la playa principal de la isla de San Andrés en la vía peatonal a tan solo 5 minutos del aeropuerto y 3 minutos de la zona comercial",
-      "imagen": "https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322702781_895015128520429_4222417569543623259_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=kzQR9yCMAv8AX-nxFEW&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfB13A7Y-Ak9zhaFGOG34IahU8_5YEuDIn2sk-ktl9xXVQ&oe=63EC6C8C"
+      "imagen": "https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322702781_895015128520429_4222417569543623259_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=kzQR9yCMAv8AX-nxFEW&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfB13A7Y-Ak9zhaFGOG34IahU8_5YEuDIn2sk-ktl9xXVQ&oe=63EC6C8C",
+      "masinformacion": "tone"
     },
     {
       "hotel": "Hotel Coral Flower",
