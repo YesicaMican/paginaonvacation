@@ -122,7 +122,6 @@
 }
 
 .justify {
-
   text-align:left;
   padding: 50px;
 }
@@ -145,10 +144,10 @@ animation: AnimacionDU infinite 1.5s linear;
 .divportada{
   position: relative;
   background-repeat:no-repeat;
+  background-image: url("./video.gif") ;
   background-size: 100% 100%;
-  z-index: 0;
   width: 95%;
-  height: auto;
+  height: 600px;
   margin: auto;
 }
 .mapa{

@@ -3,8 +3,6 @@ import React from 'react'
 function Bluereef() {
   return (
     <div className='justify'>
-      <br />
-      <br />
       <h1 className='bluereef1'>Blue Reef</h1>
       <p className='reco'> Ubicado en el sector de Sarie Bay a 10 minutos del centro de San Andrés y del Aeropuerto, de fácil acceso al transporte público. La propiedad ofrece a los huéspedes piscina descubierta con bañera de hidromasajes y piscina para niños.</p>
       <div className='row'>

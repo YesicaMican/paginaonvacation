@@ -1,17 +1,14 @@
 import "./App.css";
-import fondogif from './video.gif'
 import { useState } from 'react';
 
 function App() {
   const [showMessage, setShowMessage] = useState(false);
   return (
     <div className="divportada">
-      <img
-        src={fondogif}
-        className="img-fluid fondogif"
-        alt="Fondo"
-      ></img>
-      <div className="whatsapp-content" style={{alignItems:"initial"}} >        
+      <div>
+        <h1 className="text-center">OnVacation</h1>
+      </div>
+      <div className="whatsapp-content" style={{alignItems:"initial"}}>        
         <div className=" bg-dark m-2 divclic" style={{width:"150px",height:"auto"}}>
           <h4 className=" text-bg-light clic text-center m-2" hidden={!showMessage} >Estás a un click de tus mejores vacaciones</h4>
         </div>
