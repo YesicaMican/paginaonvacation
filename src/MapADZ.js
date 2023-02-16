@@ -9,7 +9,7 @@ function MapADZ() {
       <div className="row">
         {destinos.destinossanandres.map((sanandres) => {
           return (
-            <div className="col-sm-4 m-2" key={sanandres.hotel}>
+            <div className="col-sm-4 mt-2" key={sanandres.hotel}>
               <div className="card text-bg-dark">
                 <img src={sanandres.imagen} className="" alt="..." />
                 <div className="card-img-overlay">

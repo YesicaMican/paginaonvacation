@@ -6,7 +6,7 @@ function MAPCUN() {
     <div className="row">
       {destinos.destinocun.map((cancun) => {
         return (
-          <div className="col-sm-4 m-2" key={cancun.hotel}>
+          <div className="col-sm-4 mt-2" key={cancun.hotel}>
           <div className="card text-bg-dark">
           <img src={cancun.imagen} className="" alt="..."/>
           <div className="card-img-overlay">
