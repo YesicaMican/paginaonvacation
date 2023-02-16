@@ -34,13 +34,13 @@ function Bluecove() {
                         <br />
                         <br />
                         <h2 className=' text-center' >Ubicación</h2>
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/329191020_2416890915127049_2685708647209184058_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=hANExwE-ROEAX8vdKVE&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAE4dU-cRtmyF8hkqSRv20WT94tfqAe6z28gcOkg8qHMA&oe=63EB7D4C" class="img-fluid mapa" alt="..." width="60%" />
+                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/330918145_563386105826355_8705232792121521128_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGy9LZgw5Qc62BG6ymGImEsvCdF3Jqw6wq8J0XcmrDrCpQPjWFpsm0WBI1GZnpwRIVhWN_E7wHJo18KzUmX6ln6&_nc_ohc=dwDD0u7oHsUAX_IJvrQ&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBJ42BQdV6jpW3bt2qy4BkujwSwBFQ_JzEwLLOgxgz-UA&oe=63F2B6CE" class="img-fluid mapa" alt="..." width="60%" />
                     </div>
                 </div>
             </div>
 
             <br />
-      <iframe width="700" height="400" src="https://www.youtube.com/embed/EfcfC94htnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/YojMLga6oJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
       <br />
       <br />
       <div className='servicios'>

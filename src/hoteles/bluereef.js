@@ -30,7 +30,7 @@ function Bluereef() {
         <div className='col-lg-6'>
         
           <h2 className=' text-center' >Ubicación</h2>
-          <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/328351566_603288675147882_1424001117216581162_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeH0PnSh-N2I5Rkt-SdflWEdEMy-wbz0EucQzL7BvPQS5_u-qkpRnjEuXCKtLaoH3GcUyyYkLNEM4UZDuJfgyMbP&_nc_ohc=W_2MszfBTDYAX_c_GpH&_nc_oc=AQlHOxj5Vlw7M_o72E1p_DBjVFuPNndTXaBfDRKmWJyb3RBSKEUQVz9i3ebBXNB8yiQ&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAp3bASETj9wXI_f_hWuH2SVLMuygiq2or8kgenSnVYrg&oe=63E475DF" class="img-fluid mapa" alt="..." width="50%" />
+          <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331019720_638547208277328_5754975668552921576_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHeYVMBjlkUcESHWK5d0LwQwvc7NYLq7d3C9zs1gurt3W9BbbUE7uEtgBJ7gWMevnkbuJ7dFCmWjgFcP72VwZRZ&_nc_ohc=FCbCemsA-t8AX8HZZkP&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBZIinuaWcgvkR_rhSwM0gatgyvUj3UHnAKCkx9NuTdcg&oe=63F4052E" class="img-fluid mapa" alt="..." width="50%" />
         </div>
       </div>
       <br />
