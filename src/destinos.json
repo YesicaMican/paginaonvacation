@@ -16,7 +16,8 @@
     {
       "hotel": "Hotel Tower",
       "descripcion": "Hotel tipo turista ubicado en la zona comercial de San Andrés y a 2 cuadras de la playa",
-      "imagen": "https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/326397666_704576731110217_2901503838185381613_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=se4oq7aaBnMAX-PxZLI&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAiEB-qUBcxpswf-B5bWMKx_T0y2VdtNsyAXtA9WqBrEA&oe=63EBF069"
+      "imagen": "https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/326397666_704576731110217_2901503838185381613_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=se4oq7aaBnMAX-PxZLI&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAiEB-qUBcxpswf-B5bWMKx_T0y2VdtNsyAXtA9WqBrEA&oe=63EBF069",
+      "masinformacion": "tower"
     },
     {
       "hotel": "Hotel Toné",

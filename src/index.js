@@ -11,6 +11,7 @@ import Footer from "./Footer";
 import Bluereef from "./hoteles/Bluereef";
 import Home from "./Home";
 import Bluecove from "./hoteles/Bluecove";
+import Tower from "./hoteles/Tower";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
@@ -23,6 +24,7 @@ root.render(
         <Route path="/" element={<Home/>}/>
         <Route path="/bluereef" element={<Bluereef />} />
         <Route path="/bluecove" element={<Bluecove />} />
+        <Route path="/tower" element={<Tower />} />
       </Routes>
 
       <Footer />
