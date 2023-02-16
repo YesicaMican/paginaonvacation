@@ -6,7 +6,7 @@ function MAPArm() {
             <div className="row">
                 {destinos.destinoeje.map((eje) => {
                     return (
-                        <div className="col-sm-4 m-2" key={eje.hotel}>
+                        <div className="col-sm-4 mt-2" key={eje.hotel}>
                         <div className="card text-bg-dark">
                         <img src={eje.imagen} className="" alt="..."/>
                         <div className="card-img-overlay">

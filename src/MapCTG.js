@@ -6,7 +6,7 @@ function MapCTG() {
     <div className="row">
       {destinos.destinoctg.map((Cartagena) => {
         return (
-          <div className="col-sm-4 m-2" key={Cartagena.hotel}>
+          <div className="col-sm-4 mt-2" key={Cartagena.hotel}>
           <div className="card text-bg-dark">
           <img src={Cartagena.imagen} className="" alt="..."/>
           <div className="card-img-overlay">

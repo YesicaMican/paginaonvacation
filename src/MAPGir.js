@@ -6,7 +6,7 @@ function MAPGir() {
             <div className="row">
                 {destinos.destinogirardot.map((girardot) => {
                     return (
-                        <div className="col-sm-4 m-2" key={girardot.hotel}>
+                        <div className="col-sm-4 mt-2" key={girardot.hotel}>
                         <div className="card text-bg-dark">
                         <img src={girardot.imagen} className="" alt="..."/>
                         <div className="card-img-overlay">

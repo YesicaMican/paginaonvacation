@@ -6,7 +6,7 @@ function MapLET() {
     <div className="row">
       {destinos.destinoamazonas.map((amazonas) => {
         return (
-          <div className="col-sm-4 m-2" key={amazonas.hotel}>
+          <div className="col-sm-4 mt-2" key={amazonas.hotel}>
           <div className="card text-bg-dark">
           <img src={amazonas.imagen} className="" alt="..."/>
           <div className="card-img-overlay">

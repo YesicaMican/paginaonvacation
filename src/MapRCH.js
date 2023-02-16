@@ -6,7 +6,7 @@ function MapRCH() {
             <div className="row">
                 {destinos.destinoguajira.map((guajira) => {
                     return (
-                        <div className="col-sm-4 m-2" key={guajira.hotel}>
+                        <div className="col-sm-4 mt-2" key={guajira.hotel}>
                         <div className="card text-bg-dark">
                         <img src={guajira.imagen} className="" alt="..."/>
                         <div className="card-img-overlay">
