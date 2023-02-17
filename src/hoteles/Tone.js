@@ -13,13 +13,19 @@ peatonal a tan solo 5 minutos del aeropuerto y 3 minutos de la zona comercial, r
                     <div id="carouselExample" className="carousel slide ">
                         <div className="carousel-inner">
                             <div className="carousel-item active" >
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322163969_1303993830163264_8930410637272163135_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_ohc=izbODqayOkEAX_2sc-i&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAzaUsAQ66Bl_pWlXFRSBzaW9yo1fkjS1kWXU3-6-xw4g&oe=63F463AA" className="img-fluid" alt="..." />
+                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/321830589_716268913150338_414124258644510111_n.jpg?stp=dst-jpg_s640x640&_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGDiLYgMkn0VHLKCymsV68DTuGXYKuh-SdO4Zdgq6H5J6OXJeJwOlnW06Hu_el5OIMVXayGytPo-NIbjSOC7reU&_nc_ohc=ezrhbEnd9isAX-6zj7f&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCRcNw4zuFvcOwuI0y477BZe5TF0JkcX9VElpuOKfQdJA&oe=63F58CD4" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/321943801_472191168419730_568167656291452245_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0debeb&_nc_ohc=7g5N9Ja8pLcAX8K5J93&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCgAoe3p8f5TFdCKC7Fc95Cd9o7-yc9P_XjSrvOVWKmDg&oe=63F38038" className="img-fluid" alt="..." />
+                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322377364_542010247839059_4885475254287876874_n.jpg?stp=dst-jpg_s640x640&_nc_cat=106&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeEoZAc0j-vn6QXlPFYTfXs2N-UBRgqLyq435QFGCovKrnM1yh3BAZQjBof3QaTYZuX7qtnWVlxGzIpv8eXlpjCC&_nc_ohc=mU1nPWRf5iMAX9PolJP&_nc_ht=scontent.fbog14-1.fna&oh=00_AfC7uAOSYkxu1_uwitzjsrPKZFCji-4MEwHqdEFtI00aTQ&oe=63F5542E" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322588257_702709961238580_5024522546096351721_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=PNIdB5h6oTUAX9Sxbe8&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfB6dX83MQOO7u89Oy4RMnwLBuCRpywwLaI11zLUg8bevQ&oe=63F35BC0" className="img-fluid" alt="..." />
+                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322366197_666138685191455_9141116937427313908_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeEiCdf7G0mJHRUEpzUo2hYKPSarlBvrsPs9JquUG-uw-zoOS5EL9YoLcVdP8lztfijOVLUs4QBuhqR8BPLxt9Dd&_nc_ohc=S3VvzGSOGGQAX-NBMrv&_nc_ht=scontent.fbog14-1.fna&oh=00_AfDZrpKO4PnJsBlAQMtbNM_zcd-3fJSCUTDMdYnot6mAqg&oe=63F5DD41" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="carousel-item">
+                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/321990357_571760730983707_6402131065653186061_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGhKqrFr3ptQFfmQj0b1N_6097hASydmJPT3uEBLJ2Yk-WeXv7PEUpsARadC9DpOmUpsFkqTvGdocTKNisH-t-_&_nc_ohc=2fi4nRoHMsIAX_h48KE&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCr3hbZ06m7s1t9TbAZHhEWSG_LxKyHPqAFdw5oMcq_cg&oe=63F44705" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="carousel-item">
+                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/322733144_1227357604884955_4216008668088452251_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeHMcn9QKQcZDaC-UOz_ZwGj7fIkSNFvwVTt8iRI0W_BVCtE3aGjzAMm6kA0ysEqD1Yeol86eK4QVODiNdRVrI--&_nc_ohc=ZTezCu-aZOkAX96JdTx&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBBZVYy-n8vhNNxUpn_zX33p2wqhl927QcYbcNZzVbEdw&oe=63F3E7FA" className="img-fluid" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -35,7 +41,7 @@ peatonal a tan solo 5 minutos del aeropuerto y 3 minutos de la zona comercial, r
                         <br />
                         <br />
                         <h2 className=' text-center' >Ubicación</h2>
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331047730_1311959596053582_5462228321709579197_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeF3rBQMw9fyO8TghFaGlzMZmS417MiYeG6ZLjXsyJh4bkwpd55ucYBf8jHHJp8ziPSqFdVWogn2WzPjFA__bgIm&_nc_ohc=J4VpKO7gDd4AX9yqqKN&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBpOoeXtUrbhKOX9gRjPySBvKGj5WegF88IF9DXDMQKRQ&oe=63F46653" class="img-fluid mapa" alt="..." width="60%" />
+                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331907333_746549346752289_440341084279274953_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEf6hp1jfF1wyavE5DgxAswtUgBf4TQBgy1SAF_hNAGDF4eO25Csk1iU7Nnh7xzeAGCXbxVOTbwrlLr6kMdSHs2&_nc_ohc=KUYurU6Pv7kAX8n6E0c&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAU0jlE2XdVy_E7O5c9uJiuRnL8wcSebcAa-yLtjNlskA&oe=63F5BD0F" class="img-fluid mapa" alt="..." width="60%" />
                     </div>
                 </div>
             </div>
