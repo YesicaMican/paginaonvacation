@@ -1,6 +1,8 @@
 import React from 'react'
 import destinos from "./destinos.json"
+import { useNavigate } from "react-router-dom";
 function MAPCUN() {
+  const navigate = useNavigate();
   return (
     <div className="container">
     <div className="row">
@@ -11,7 +13,7 @@ function MAPCUN() {
           <img src={cancun.imagen} className="" alt="..."/>
           <div className="card-img-overlay">
             <h5 className="card-title">{cancun.hotel}</h5>
-            <button variant="contained" className="btn btn-outline-light"><small>Más información</small></button>
+            <button variant="contained" className="btn btn-outline-light"  onClick={() => navigate(`${cancun.masinformacion}`)} >Más Información</button>
             <p className="card-text">{cancun.descripcion}</p>
           </div>
         </div>

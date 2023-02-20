@@ -13,6 +13,17 @@ import Home from "./Home";
 import Bluecove from "./hoteles/Bluecove";
 import Tower from "./hoteles/Tower";
 import Tone from "./hoteles/Tone";
+import Coral from "./hoteles/Coral";
+import Hill from "./hoteles/Hill";
+import Acantilado from "./hoteles/Acantilado";
+import Wayira from "./hoteles/Wayira";
+import Caribe from "./hoteles/Caribe";
+import Factoria from "./hoteles/Factoria";
+import Inn from "./hoteles/Inn";
+import Amazon from "./hoteles/Amazon";
+import Tucanes from "./hoteles/Tucanes";
+import Girardot from "./hoteles/Girardot";
+import Dosplayas from "./hoteles/Dosplayas";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
@@ -27,6 +38,17 @@ root.render(
         <Route path="/bluecove" element={<Bluecove />} />
         <Route path="/tower" element={<Tower />} />
         <Route path="/tone" element={<Tone />} />
+        <Route path="/coral" element={<Coral />} />
+        <Route path="/hill" element={<Hill />} />
+        <Route path="/acantilado" element={<Acantilado />} />
+        <Route path="/wayira" element={<Wayira />} />
+        <Route path="/caribe" element={<Caribe />} />
+        <Route path="/factoria" element={<Factoria />} />
+        <Route path="/inn" element={<Inn />} />
+        <Route path="/amazon" element={<Amazon/>} />
+        <Route path="/tucanes" element={<Tucanes/>} />
+        <Route path="/girardot" element={<Girardot/>} />
+        <Route path="/dosplayas" element={<Dosplayas/>} />
       </Routes>
 
       <Footer />

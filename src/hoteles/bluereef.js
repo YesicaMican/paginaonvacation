@@ -61,13 +61,14 @@ function Bluereef() {
           </h1>
           <p> Tu habitación contará con televisión con señal por cable, aire acondicionado, caja de seguridad, baño privado con ducha, algunas habitaciones tienen vista parcial al mar.</p>
           <h1 className='title'>
-            ¿Cuáles son los puntos turísticos cercanos al hotel?
-          </h1>
-          <p> Sendero peatonal, Coco Loco, Playa Spratt Bight.</p>
+                    ¿Cuál es el horario del restaurante?
+
+                    </h1>
+                    <p> Desayuno 7:00 am - 10:00 am. Almuerzo 12:00 pm - 02:30 pm. Cena 6:00 pm a 9:00 pm.</p>
         </div>
         <div className="col-lg-6 reco">
           <h1 className='title'>
-            Servicios extras y atracciones
+            Servicios extras y atracciones con costo adicional
           </h1>
           <p>   Visita al Acuario, Cueva de Morgan, Hoyo Soplador, primera Iglesia Bautista, minicurso de buceo, vuelo sobre el mar de los siete colores en el Parasil, cabalgata en la playa o en la montaña, vuelta a la isla.</p>
           <h1 className='title'>

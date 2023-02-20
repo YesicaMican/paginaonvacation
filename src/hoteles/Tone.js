@@ -1,14 +1,17 @@
 import React from 'react'
 
 export default function Tone() {
-  return (
-    <div className='justify'>
+    return (
+        <div className='justify'>
             <br />
             <br />
             <h1>Toné</h1>
             <div className='justify'>
-                <p > Hotel tipo turista ubicado frente a la playa principal de la isla de San Andrés en la vía
-peatonal a tan solo 5 minutos del aeropuerto y 3 minutos de la zona comercial, rodeado de restaurante y bares</p>
+                <p > Un destino que todos debemos visitar, conocido por el mar de los 7 colores, es un paraíso que cuenta con atracciones para todos los gustos. On
+                    Vacation te ofrece un hotel para que
+                    disfrutes de la isla con las
+                    comodidades que necesitas para
+                    relajarte durante las vacaciones.</p>
                 <div style={{ display: "flex" }}>
                     <div id="carouselExample" className="carousel slide ">
                         <div className="carousel-inner">
@@ -48,35 +51,38 @@ peatonal a tan solo 5 minutos del aeropuerto y 3 minutos de la zona comercial, r
 
             <br />
             <iframe width="560" height="315" src="https://www.youtube.com/embed/D1uZta7OI0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
-      <br />
-      <br />
-      <div className='servicios'>
-      <h2 className='title'>Que servicios ofrece el hotel?</h2>
-      <br />
-      <br />
-      <p> Recepción 24 horas</p>
-      <p> Bar</p>
-      <p> Restaurantes</p>
-      <p> Piscina</p>
-      <p> Torre con ascensor</p>
-      <p> Food Paradise (servicio de pago adicional)</p>
-      </div>
-      <br />
+            <br />
+            <br />
+            <div className='servicios'>
+                <h2 className='title'>Que servicios ofrece el hotel?</h2>
+                <br />
+                <br />
+                <p> Bar</p>
+                <p> Restaurantes</p>
+                <p> Piscina</p>
+            </div>
+            <br />
             <div className="row">
                 <div className="col-lg-6 reco">
                     <h1 className='title'>
                         ¿Dónde queda?
                     </h1>
-                    <p>Desde el aeropuerto Gustavo Rojas Pinilla a 7 minutos en vehículo aproximadamente y desde el centro de San Andrés a 8 minutos en vehículo aproximadamente.</p>
+                    <p>Hotel tipo turista ubicado frente a la playa 
+principal de la isla de San Andrés en la vía
+peatonal a tan solo 5 minutos del aeropuerto y 3
+minutos de la zona comercial, rodeado de
+restaurante y bares.
+</p>
 
                     <h1 className='title'>
                         ¿Qué servicios tiene mi habitación?
                     </h1>
                     <p> Tu habitación contará con televisión con señal por cable, aire acondicionado, caja de seguridad, baño privado con ducha</p>
                     <h1 className='title'>
-                        ¿Cuáles son los puntos turísticos cercanos al hotel?
+                    ¿Qué horarios tiene el check-in y check-out?
+
                     </h1>
-                    <p> Sendero peatonal, Coco Loco, playa Spratt Bight.</p>
+                    <p> El check-in es a las 5:00 pm y check-out: 1:00 pm. Si viajas en vuelo nocturno la habitación se te entregará en el momento de la llegada al hotel.</p>
                 </div>
                 <div className="col-lg-6 reco">
                     <h1 className='title'>
@@ -88,11 +94,12 @@ peatonal a tan solo 5 minutos del aeropuerto y 3 minutos de la zona comercial, r
                     </h1>
                     <p>   Categoría turista.</p>
                     <h1 className='title'>
-                        ¿Qué horarios tiene el check-in y check-out?
+                    ¿Cuál es el horario del Bar?
+
                     </h1>
-                    <p> El check-in es a las 5:00 pm y check-out: 1:00 pm. Si viajas en vuelo nocturno la habitación se te entregará en el momento de la llegada al hotel.</p>
+                    <p> El horario del bar 10:00 a.m. a 11:00 p.m.</p>
                 </div>
             </div>
         </div>
-  )
+    )
 }

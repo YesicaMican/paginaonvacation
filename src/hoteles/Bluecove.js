@@ -65,9 +65,10 @@ function Bluecove() {
                     </h1>
                     <p> Tu habitación contará con televisión con señal por cable, aire acondicionado, caja de seguridad, baño privado con ducha, algunas habitaciones tienen vista parcial al mar.</p>
                     <h1 className='title'>
-                        ¿Cuáles son los puntos turísticos cercanos al hotel?
+                    ¿Cuál es el horario del restaurante?
+
                     </h1>
-                    <p> Sendero peatonal, Coco Loco, Playa Spratt Bight.</p>
+                    <p>Desayuno 7:00 am -10:00 am. Almuerzo 12:00 pm - 02:45 pm. Cena 6:00 pm a 9:00 pm.</p>
                 </div>
                 <div className="col-lg-6 reco">
                     <h1 className='title'>
