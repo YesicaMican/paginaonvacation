@@ -24,6 +24,8 @@ import Amazon from "./hoteles/Amazon";
 import Tucanes from "./hoteles/Tucanes";
 import Girardot from "./hoteles/Girardot";
 import Dosplayas from "./hoteles/Dosplayas";
+import Princess from "./hoteles/Princess";
+import Dunamar from "./hoteles/Dunamar";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
@@ -49,6 +51,8 @@ root.render(
         <Route path="/tucanes" element={<Tucanes/>} />
         <Route path="/girardot" element={<Girardot/>} />
         <Route path="/dosplayas" element={<Dosplayas/>} />
+        <Route path="/princess" element={<Princess/>} />
+        <Route path="/dunamar" element={<Dunamar/>} />
       </Routes>
 
       <Footer />
