@@ -120,7 +120,14 @@
     transform: rotate(360deg);
   }
 }
-
+@keyframes Animacionaparecer{
+ from{
+  opacity: 0.0;
+ }
+ to{
+  opacity: 1;
+ }
+}
 .justify {
   text-align:left;
   padding: 50px;
@@ -147,8 +154,13 @@ animation: AnimacionDU infinite 1.5s linear;
   background-image: url("./video.gif") ;
   background-size: 100% 100%;
   width: 95%;
-  height: 600px;
   margin: auto;
+}
+.animacion{
+  animation-name: Animacionaparecer;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
 .mapa{
   margin-left: 20%;
