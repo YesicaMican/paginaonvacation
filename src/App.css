@@ -147,7 +147,6 @@ animation: AnimacionDU infinite 1.5s linear;
   background-image: url("./video.gif") ;
   background-size: 100% 100%;
   width: 95%;
-  height: 600px;
   margin: auto;
 }
 .mapa{

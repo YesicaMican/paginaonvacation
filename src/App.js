@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="divportada">
       <div>
-        <h1 className="text-center">OnVacation</h1>
+        <img src="https://mitarjetapersonal.co/wp-content/uploads/2020/06/logo-onvacation-II-1024x591.png" className="img-fluid" alt="logoonvacation"></img>
       </div>
       <div className="whatsapp-content" style={{alignItems:"initial"}}>        
         <div className=" bg-dark m-2 divclic" style={{width:"150px",height:"auto"}}>
