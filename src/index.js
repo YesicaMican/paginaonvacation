@@ -26,6 +26,7 @@ import Girardot from "./hoteles/Girardot";
 import Dosplayas from "./hoteles/Dosplayas";
 import Princess from "./hoteles/Princess";
 import Dunamar from "./hoteles/Dunamar";
+import Playacar from "./hoteles/Playacar";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
@@ -53,6 +54,7 @@ root.render(
         <Route path="/dosplayas" element={<Dosplayas/>} />
         <Route path="/princess" element={<Princess/>} />
         <Route path="/dunamar" element={<Dunamar/>} />
+        <Route path="/playacar" element={<Playacar/>} />
       </Routes>
 
       <Footer />

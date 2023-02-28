@@ -9,9 +9,11 @@ import MAPGir from "./MAPGir";
 import App from "./App";
 import "./App.css"
 
+
 function Home() {
   
   return (
+    
   <>
   <App />
   <h1 className="container-fluid text-center">San Andres</h1>
@@ -29,6 +31,7 @@ function Home() {
   <h1 className="container-fluid text-center">Cancún</h1>
   <MAPCUN />
   </>
+  
   )
 }
 
