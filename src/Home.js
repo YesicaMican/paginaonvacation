@@ -8,11 +8,13 @@ import MAPArm from "./MAPArm";
 import MAPGir from "./MAPGir";
 import App from "./App";
 import "./App.css"
-
+import background from "./fondo.jpg";
 
 function Home() {
   
   return (
+    <div style={{ backgroundImage: `url(${background})` }}>
+      
     
   <>
   <App />
@@ -31,7 +33,7 @@ function Home() {
   <h1 className="container-fluid text-center">Cancún</h1>
   <MAPCUN />
   </>
-  
+  </div>
   )
 }
 
