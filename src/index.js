@@ -27,8 +27,11 @@ import Dosplayas from "./hoteles/Dosplayas";
 import Princess from "./hoteles/Princess";
 import Dunamar from "./hoteles/Dunamar";
 import Playacar from "./hoteles/Playacar";
+import background from "./fondo.jpg";
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
+  <div style={{ backgroundImage: `url(${background})` }}>
   <React.StrictMode>
     <BrowserRouter>
       <Navegador />
@@ -60,6 +63,7 @@ root.render(
       <Footer />
     </BrowserRouter>
   </React.StrictMode>
+  </div>
 );
 
 // If you want to start measuring performance in your app, pass a function
