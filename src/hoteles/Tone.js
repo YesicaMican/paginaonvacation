@@ -40,11 +40,17 @@ export default function Tone() {
                             <span className="visually-hidden">Next</span>
                         </button>
                     </div>
-                    <div >
-                        <br />
-                        <br />
-                        <h2 className=' text-center' >Ubicación</h2>
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331907333_746549346752289_440341084279274953_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEf6hp1jfF1wyavE5DgxAswtUgBf4TQBgy1SAF_hNAGDF4eO25Csk1iU7Nnh7xzeAGCXbxVOTbwrlLr6kMdSHs2&_nc_ohc=KUYurU6Pv7kAX8n6E0c&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAU0jlE2XdVy_E7O5c9uJiuRnL8wcSebcAa-yLtjNlskA&oe=63F5BD0F" class="img-fluid mapa" alt="..." width="60%" />
+                    <div className='m-5'>
+                        <h2 align='center' >Qué Incluye?</h2>
+                        <p >✅Vuelo ida y regreso </p>
+                        <p >✅Alojamiento 4 días completos </p>
+                        <p >✅Alimentación (desayuno y cena) </p>
+                        <p >✅Equipaje de mano de 6kg (mochila)  </p>
+                        <p> ✅Asistencia médica. </p>
+                        <p >✅Seguro hotelero.  </p>
+                        <p  > <b>🔺 No incluye</b> <br />❌ Tarjeta de turismo de ingreso a la isla<br />
+                            ❌Traslado Aeropuerto - hotel - Aeropuerto<br />
+                            ❌ Tours dentro de la tarifa ( tiene costo adicional) </p>
                     </div>
                 </div>
             </div>
@@ -67,19 +73,19 @@ export default function Tone() {
                     <h1 className='title'>
                         ¿Dónde queda?
                     </h1>
-                    <p>Hotel tipo turista ubicado frente a la playa 
-principal de la isla de San Andrés en la vía
-peatonal a tan solo 5 minutos del aeropuerto y 3
-minutos de la zona comercial, rodeado de
-restaurante y bares.
-</p>
+                    <p>Hotel tipo turista ubicado frente a la playa
+                        principal de la isla de San Andrés en la vía
+                        peatonal a tan solo 5 minutos del aeropuerto y 3
+                        minutos de la zona comercial, rodeado de
+                        restaurante y bares.
+                    </p>
 
                     <h1 className='title'>
                         ¿Qué servicios tiene mi habitación?
                     </h1>
                     <p> Tu habitación contará con televisión con señal por cable, aire acondicionado, caja de seguridad, baño privado con ducha</p>
                     <h1 className='title'>
-                    ¿Qué horarios tiene el check-in y check-out?
+                        ¿Qué horarios tiene el check-in y check-out?
 
                     </h1>
                     <p> El check-in es a las 5:00 pm y check-out: 1:00 pm. Si viajas en vuelo nocturno la habitación se te entregará en el momento de la llegada al hotel.</p>
@@ -94,7 +100,7 @@ restaurante y bares.
                     </h1>
                     <p>   Categoría turista.</p>
                     <h1 className='title'>
-                    ¿Cuál es el horario del Bar?
+                        ¿Cuál es el horario del Bar?
 
                     </h1>
                     <p> El horario del bar 10:00 a.m. a 11:00 p.m.</p>

@@ -9,13 +9,19 @@ function Bluereef() {
         <div id="carouselExample" className="carousel slide col-lg-6">
           <div className="carousel-inner">
             <div className="carousel-item active" >
-              <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331161237_489792959830251_4978886755452587777_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeENE8c4fqCbI02Je6x83reVhfOc2b0QeiCF85zZvRB6IFWciLLroXLut1JCODJD2fJwIv5VnCEClkyuu_xgS6qt&_nc_ohc=ffuD0UdrgG4AX-eqo_d&_nc_ht=scontent.fbog14-1.fna&oh=00_AfDxSv_bhPGqdnyXIHA7XiJlD24CUK-dGSyIKRJAzKzR1A&oe=63F46414" className="img-fluid" alt="..." />
+              <img src="http://drive.google.com/uc?export=view&id=1HO8X7KHkc7nbFLnhz1abycj2zjrFXasy" className="img-fluid" alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331144017_749697909829161_1895837829719872380_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFfn4mBrcOK-o79b938YyII_nBcG6p_pyz-cFwbqn-nLITXe90MBIms-3LKNplUHAC-R_2ketTrp7Sng0tGWeKB&_nc_ohc=n9lWm153eWsAX_wFPqP&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBqpDpWCp4fZ2MADHIGG4tQcHWsI28nTdXwBmaNrsCEWA&oe=63F333C4" className="img-fluid" alt="..." />
+              <img src="http://drive.google.com/uc?export=view&id=1QwVTNeBgi6vWM4GpMBZF0MVw40JKwill" className="img-fluid" alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331065382_521959366500892_1771094230854657439_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEB1EL8-TI0BHvPPpymdDgO9cJbfzX0zJb1wlt_NfTMlp9Kx2gAZdrd2fIA8X4vQBy550fQuW2cyf1Sz_ecetB5&_nc_ohc=j0N8l-WAoJwAX_FiFgg&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBO6NKO9mNJhOfvf0I1tQalZ3_N8sKV0b36SYTgvjUesA&oe=63F420B0" className="img-fluid" alt="..." />
+              <img src="http://drive.google.com/uc?export=view&id=1kTh-LLbWVotdWx-jYIaUdSAyEHP-bth1" className="img-fluid" alt="..." />
+            </div>
+            <div className="carousel-item">
+              <img src="http://drive.google.com/uc?export=view&id=1vkTyyy5Ypox20EKWfbNl_oVibrqbgwi_" className="img-fluid" alt="..." />
+            </div>
+            <div className="carousel-item">
+              <img src="http://drive.google.com/uc?export=view&id=1bgoJZNULbXSgk6HJM9hXQIahrBZ4Mm_A" className="img-fluid" alt="..." />
             </div>
           </div>
           <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -28,9 +34,18 @@ function Bluereef() {
           </button>
         </div>
         <div className='col-lg-6'>
-        
-          <h2 className=' text-center' >Ubicación</h2>
-          <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331019720_638547208277328_5754975668552921576_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHeYVMBjlkUcESHWK5d0LwQwvc7NYLq7d3C9zs1gurt3W9BbbUE7uEtgBJ7gWMevnkbuJ7dFCmWjgFcP72VwZRZ&_nc_ohc=FCbCemsA-t8AX8HZZkP&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBZIinuaWcgvkR_rhSwM0gatgyvUj3UHnAKCkx9NuTdcg&oe=63F4052E" class="img-fluid mapa" alt="..." width="50%" />
+
+          <h2 align='center' >Qué Incluye?</h2>
+          <p >✅Vuelo ida y regreso </p>
+          <p >✅Alojamiento 4 días completos </p>
+          <p >✅Alimentación (desayuno, almuerzo y cena buffet) </p>
+          <p >✅Bebidas y cócteles Ilimitados habilitados en el bar </p>
+          <p  >✅Equipaje de mano de 6kg (mochila)  </p>
+          <p>✅Asistencia médica. </p>
+          <p >✅Seguro hotelero.  </p>
+          <p  > <b>🔺 No incluye</b> <br />❌ Tarjeta de turismo de ingreso a la isla<br />
+            ❌Traslado Aeropuerto - hotel - Aeropuerto<br />
+            ❌ Tours dentro de la tarifa ( tiene costo adicional) </p>
         </div>
       </div>
       <br />
@@ -38,13 +53,13 @@ function Bluereef() {
       <br />
       <br />
       <div className='servicios'>
-      <h2 className='title'>Que servicios ofrece el hotel?</h2>
-      <br />
-      <br />
-      <p> Recepción 24 horas</p>
-      <p> Bar</p>
-      <p> Restaurante</p>
-      <p> Piscina</p>
+        <h2 className='title'>Que servicios ofrece el hotel?</h2>
+        <br />
+        <br />
+        <p> Recepción 24 horas</p>
+        <p> Bar</p>
+        <p> Restaurante</p>
+        <p> Piscina</p>
       </div>
       <br />
       <br />
@@ -61,10 +76,10 @@ function Bluereef() {
           </h1>
           <p> Tu habitación contará con televisión con señal por cable, aire acondicionado, caja de seguridad, baño privado con ducha, algunas habitaciones tienen vista parcial al mar.</p>
           <h1 className='title'>
-                    ¿Cuál es el horario del restaurante?
+            ¿Cuál es el horario del restaurante?
 
-                    </h1>
-                    <p> Desayuno 7:00 am - 10:00 am. Almuerzo 12:00 pm - 02:30 pm. Cena 6:00 pm a 9:00 pm.</p>
+          </h1>
+          <p> Desayuno 7:00 am - 10:00 am. Almuerzo 12:00 pm - 02:30 pm. Cena 6:00 pm a 9:00 pm.</p>
         </div>
         <div className="col-lg-6 reco">
           <h1 className='title'>

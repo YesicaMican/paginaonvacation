@@ -12,13 +12,19 @@ function Bluecove() {
                     <div id="carouselExample" className="carousel slide ">
                         <div className="carousel-inner">
                             <div className="carousel-item active" >
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331077813_1534367100383691_7842332562102290024_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFejPkmFhp8tRq4FTPHKCINzu2G2bsDZD3O7YbZuwNkPbU440ybxGc7t6_VJVIc5_R9ws95tbgmlb_izKjC8Zeu&_nc_ohc=9exOlgiaPU0AX--dFeM&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCjLkvgvNSpw9WF-IaZDYgQYw7xM_vt6y_slmgUlYjLSQ&oe=63F45389" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1qLe9DG3w1KLZEaqbOEisEl3dUel_HIIQ" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/330929011_884215189364643_230636709583798578_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHb37HNHClhcXOQMQ3l1RkiARbroxpHJxwBFuujGkcnHNp4z0IVv2CL2jI1XtTkk3o4nZCg9Oy1-Sl7JBsi82Dw&_nc_ohc=d63nRqx3IKoAX9xXBsz&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBLINeGnR-CnVn_IekQQ4YeSXPxODp7l4Ei_F36TPVX5Q&oe=63F490BA" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1JqnFHQPOMsvy0JOhEjiTOcWpgfguV5fo" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/330843025_732120091620440_9001962016141863009_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGbGUq9bR6cd35Nnj2lSxMOUUsCkF3GTTtRSwKQXcZNOwaoZkb_eM3znKdajG0MMbJFFwPDCVai9Xa36RI4NWSb&_nc_ohc=PGV-GYJKKeUAX9nJDXn&_nc_ht=scontent.fbog14-1.fna&oh=00_AfDbNTKbKDgNK_eR1FHgzbnhUI3kFYtoPIRtoZQFaHGMfA&oe=63F40C1C" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1HYw9ZFI01zQO5fp77JPdKtAA6rjz4zqi" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="carousel-item">
+                                <img src="http://drive.google.com/uc?export=view&id=11t-J367NDN9xJ8ptdn-e3yfbOxOn5nXT" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="carousel-item">
+                                <img src="http://drive.google.com/uc?export=view&id=1-QpLcXSf6mNtX3xbzLrJuc0gnxennR0a" className="img-fluid" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -30,29 +36,37 @@ function Bluecove() {
                             <span className="visually-hidden">Next</span>
                         </button>
                     </div>
-                    <div >
-                        <br />
-                        <br />
-                        <h2 className=' text-center' >Ubicación</h2>
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/330918145_563386105826355_8705232792121521128_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGy9LZgw5Qc62BG6ymGImEsvCdF3Jqw6wq8J0XcmrDrCpQPjWFpsm0WBI1GZnpwRIVhWN_E7wHJo18KzUmX6ln6&_nc_ohc=dwDD0u7oHsUAX_IJvrQ&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBJ42BQdV6jpW3bt2qy4BkujwSwBFQ_JzEwLLOgxgz-UA&oe=63F2B6CE" class="img-fluid mapa" alt="..." width="60%" />
+                    <div className='col-lg-6' >
+
+                        <h2 align='center' >Qué Incluye?</h2>
+                        <p >✅Vuelo ida y regreso </p>
+                        <p >✅Alojamiento 4 días completos </p>
+                        <p >✅Alimentación (desayuno, almuerzo y cena buffet) </p>
+                        <p >✅Bebidas y cócteles Ilimitados habilitados en el bar </p>
+                        <p  >✅Equipaje de mano de 6kg (mochila)  </p>
+                        <p>✅Asistencia médica. </p>
+                        <p >✅Seguro hotelero.  </p>
+                        <p  > <b>🔺 No incluye</b> <br />❌ Tarjeta de turismo de ingreso a la isla<br />
+                            ❌Traslado Aeropuerto - hotel - Aeropuerto<br />
+                            ❌ Tours dentro de la tarifa ( tiene costo adicional) </p>
                     </div>
                 </div>
             </div>
 
             <br />
             <iframe width="560" height="315" src="https://www.youtube.com/embed/YojMLga6oJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
-      <br />
-      <br />
-      <div className='servicios'>
-      <h2 className='title'>Que servicios ofrece el hotel?</h2>
-      <br />
-      <br />
-      <p> Recepción 24 horas</p>
-      <p> Bar</p>
-      <p> Restaurante</p>
-      <p> Piscina</p>
-      </div>
-      <br />
+            <br />
+            <br />
+            <div className='servicios'>
+                <h2 className='title'>Que servicios ofrece el hotel?</h2>
+                <br />
+                <br />
+                <p> Recepción 24 horas</p>
+                <p> Bar</p>
+                <p> Restaurante</p>
+                <p> Piscina</p>
+            </div>
+            <br />
             <div className="row">
                 <div className="col-lg-6 reco">
                     <h1 className='title'>
@@ -65,7 +79,7 @@ function Bluecove() {
                     </h1>
                     <p> Tu habitación contará con televisión con señal por cable, aire acondicionado, caja de seguridad, baño privado con ducha, algunas habitaciones tienen vista parcial al mar.</p>
                     <h1 className='title'>
-                    ¿Cuál es el horario del restaurante?
+                        ¿Cuál es el horario del restaurante?
 
                     </h1>
                     <p>Desayuno 7:00 am -10:00 am. Almuerzo 12:00 pm - 02:45 pm. Cena 6:00 pm a 9:00 pm.</p>

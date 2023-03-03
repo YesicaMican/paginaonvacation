@@ -31,38 +31,40 @@ import background from "./fondo.jpg";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <div style={{ backgroundImage: `url(${background})` }}>
-  <React.StrictMode>
-    <BrowserRouter>
-      <Navegador />
-      <br/>
-      <br/>
-      <br/>
-      <Routes>
-        <Route path="/" element={<Home/>}/>
-        <Route path="/bluereef" element={<Bluereef />} />
-        <Route path="/bluecove" element={<Bluecove />} />
-        <Route path="/tower" element={<Tower />} />
-        <Route path="/tone" element={<Tone />} />
-        <Route path="/coral" element={<Coral />} />
-        <Route path="/hill" element={<Hill />} />
-        <Route path="/acantilado" element={<Acantilado />} />
-        <Route path="/wayira" element={<Wayira />} />
-        <Route path="/caribe" element={<Caribe />} />
-        <Route path="/factoria" element={<Factoria />} />
-        <Route path="/inn" element={<Inn />} />
-        <Route path="/amazon" element={<Amazon/>} />
-        <Route path="/tucanes" element={<Tucanes/>} />
-        <Route path="/girardot" element={<Girardot/>} />
-        <Route path="/dosplayas" element={<Dosplayas/>} />
-        <Route path="/princess" element={<Princess/>} />
-        <Route path="/dunamar" element={<Dunamar/>} />
-        <Route path="/playacar" element={<Playacar/>} />
-      </Routes>
+  <div style={{ backgroundImage: `url(${background})` }} className='fondo'>
+    
+      <React.StrictMode>
+        <BrowserRouter>
+          <Navegador />
+          <br />
+          <br />
+          <br />
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/bluereef" element={<Bluereef />} />
+            <Route path="/bluecove" element={<Bluecove />} />
+            <Route path="/tower" element={<Tower />} />
+            <Route path="/tone" element={<Tone />} />
+            <Route path="/coral" element={<Coral />} />
+            <Route path="/hill" element={<Hill />} />
+            <Route path="/acantilado" element={<Acantilado />} />
+            <Route path="/wayira" element={<Wayira />} />
+            <Route path="/caribe" element={<Caribe />} />
+            <Route path="/factoria" element={<Factoria />} />
+            <Route path="/inn" element={<Inn />} />
+            <Route path="/amazon" element={<Amazon />} />
+            <Route path="/tucanes" element={<Tucanes />} />
+            <Route path="/girardot" element={<Girardot />} />
+            <Route path="/dosplayas" element={<Dosplayas />} />
+            <Route path="/princess" element={<Princess />} />
+            <Route path="/dunamar" element={<Dunamar />} />
+            <Route path="/playacar" element={<Playacar />} />
+          </Routes>
 
-      <Footer />
-    </BrowserRouter>
-  </React.StrictMode>
+          <Footer />
+        </BrowserRouter>
+      </React.StrictMode>
+    
   </div>
 );
 
