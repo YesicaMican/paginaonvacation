@@ -32,7 +32,7 @@ function MapADZ() {
       <div className="row">
         {destinos.destinossanandres.map((sanandres) => {
           return (
-            <div className="col-sm-6 mt-2" key={sanandres.hotel}>
+            <div className="col-sm-12 mt-2" key={sanandres.hotel}>
               <div className="miClase" ref={ref}>
                 <animated.div style={props}>
                   <div className="card text-bg-dark">
