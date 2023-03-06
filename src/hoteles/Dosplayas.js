@@ -12,19 +12,19 @@ function Dosplayas() {
                     <div id="carouselExample" className="carousel slide ">
                         <div className="carousel-inner">
                             <div className="carousel-item active" >
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331419532_557573102985218_2324413161603067465_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeErcWqFJI_oT623eYGaHw1aPFuhvBmZrSs8W6G8GZmtKxNRDI6-67LdLOwJ7ojd7mbGZtJCKwbayn0qbF7IEeU8&_nc_ohc=GkK_oiPnYhcAX9ZQu6T&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCONV6_ocNoVT9M2c39Q-e1r7a2kTigBYJyExS83dTFvw&oe=63F70D13" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1I4v4Mr4r4LCc-WQHI9c01RJRT6ZQHmLt" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331971715_745326443585516_2809795289644736278_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeETcgeY19AMg0GtxeMxVFCqxYioIVAVVvzFiKghUBVW_HM4IiaI_G5RrdPhT71OJxWH1pHzFXDEiLfeFUbQEImy&_nc_ohc=rH1ZqgGAPfYAX9LAI4D&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBuIbJi_Wbpaz_SD9Z2encrufMxpKLSiaxgcXhjsC73vg&oe=63F67EB1" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1tDmSRidi_mb31vtZc552DPudGQCtgzqg" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331388487_3376102912657076_4611668185243435338_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFDDL_BXGXvOQsuvsNCcA2jyqDC3Nm3FYXKoMLc2bcVhTWikv1nu46K6ghHSiKggKKcC9P0Fh1sQuCKgC9REEhp&_nc_ohc=BEMkrKPBQXwAX85b12H&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCga8HceYclWMkHpeYXvCQMa3KWx-WHev9-034DxzcH7w&oe=63F6BB18" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1khx2A5-3Sbv3_Q7rL-AgRZliwUMS903x" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331940588_876039683661773_6639273576802572968_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH5rlH3wFXpVsh2ZuuWBtg_75dAFPJgeH3vl0AU8mB4fWvu57MSKUYQwkmxzcR2tW2S9X4AvBUJwiljGgNqRYsK&_nc_ohc=k2TXbtE6dWMAX-58PJ7&_nc_ht=scontent.fbog14-1.fna&oh=00_AfA_9nNfByMf6i_MvuWjjiBEO4prGewyVyzSa3t9OkpYqg&oe=63F6E2A2" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=16AmTM50NZHoc1uF6Ra_kKstPp-JZWRHE" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331822535_1150492295635592_8780418615512949355_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeF0ANV01LZ_LcucyKFV4vPSt7dM9VfWMcy3t0z1V9YxzKACgpclTh274rw2SqZNPrCGAUo5kwPBrDPdcolHmDXW&_nc_ohc=7nQC3Fz9kvEAX-uhlbU&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBcLUiB3CzGsuQPgIGnuMT39VOfwJ3rrH3QSrw04uP2gQ&oe=63F5DC44" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1bILX0rJdsJ_FSksxJRmyDYf3b_QQvWeO" className="img-fluid" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -36,11 +36,22 @@ function Dosplayas() {
                             <span className="visually-hidden">Next</span>
                         </button>
                     </div>
-                    <div >
-                        <br />
-                        <br />
-                        <h2 className=' text-center' >Ubicación</h2>
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331961309_5621942124595663_2147460376248394481_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFi-Nknp1SgoufA-pHQswoApftOg2tTd5-l-06Da1N3n7l3Wgi4QK4EbhfjI6Kik8d9u5pUglPUQKr2orF7WkKd&_nc_ohc=JY7Hw1q00LQAX_8_iM0&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAXZnAih_2LmMLNUK2tjadhtovnIS8oLEQxeahZCiRf0g&oe=63F687A3" class="img-fluid mapa" alt="..." width="60%" />
+                    <div className='m-3'>
+
+                        <h2 align='center' >Qué Incluye?</h2>
+                        <p >✅Tiquete aéreo ida y regreso hacia Cancún </p>
+                        <p >✅Traslado Aeropuerto - hotel - Aeropuerto </p>
+                        <p >✅Alojamiento 5 noches y 6 días </p>
+                        <p >✅Alimentación (desayuno, almuerzo y cena buffet) </p>
+                        <p >✅Bebidas y cócteles Ilimitados habilitados en el bar </p>
+                        <p >✅Snacks</p>
+                        <p >✅Equipaje de 20 kg </p>
+                        <p >✅Asistencia médica. </p>
+                        <p >✅Seguro hotelero.  </p>
+                        <p >✅Tour: visita mirador de playa delfines, Hacienda del tequila y al mercado 28  </p>
+                        <p  > <b>🔺 No incluye</b> <br />
+                            ❌Para Cancún impuesto de saneamiento ambiental en Cancún valor $1.36USD por noche por habitación. (pago en destino).Derecho de Aprovechamiento de Bienes de Dominio Público valor $10USD por persona. <br />
+                            <br />❌ Entrada a los sitios turísticos, servicios, receptivos y alimentación no relacionados</p>
                     </div>
                 </div>
             </div>

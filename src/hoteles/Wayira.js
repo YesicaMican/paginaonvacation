@@ -12,19 +12,19 @@ function Wayira() {
                     <div id="carouselExample" className="carousel slide ">
                         <div className="carousel-inner">
                             <div className="carousel-item active" >
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331466183_915649613116518_513959514056635078_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFZS_inNGM8EBSrjVR1SnVVmbtHAAHQFsWZu0cAAdAWxbSDc8_9W2MXMDPLuBLcMpQhBnB6W6eUHq7wGDbms-61&_nc_ohc=UGCBO49IqtAAX_KMAqj&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCbjmHhn4gh7fb_fyEmKE01Uxwr39HTZhI3pthPts9PFA&oe=63F54C89" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=10QHIRPYZDV7GQnp44lPX9PwzQs4Sd5BS" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331333515_2351591181658971_6160658920945600149_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHG5UwZiQaXfeVAYSrwa48ZG9a-UsACURQb1r5SwAJRFD94_1Ni1QegNO9ZbaW8ZMjbldBx8YbyzSwOHUqZ9n_R&_nc_ohc=xtCdeyvGrekAX-wo8_C&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBSCXuOhHrYUTM9zFzOkCFnn_ak0IOR4YwwdIkfKEngVw&oe=63F67CF2" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1z0cVuhyj69x7l_CGGRkKIG39YiEcfzOh" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331892510_1369302560555570_6552058808227704672_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH1F4prGoZVheBiByeA47B-n9ka02fkE3Gf2RrTZ-QTcQpk9ME3FZJKHdC5x9lrBj33AdHHOONsP_cP2eTwzpz3&_nc_ohc=FHPvaeLALtoAX_hZiTH&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCJa8OWaeHLagOVdoi_eFCMysnFEPjR_Yg4-Llm3ptWdg&oe=63F63918" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1z2CEmylKvIZpArSBFsw0Y7UiGI8XK5xt" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331358764_3191028174376304_1004940838550714874_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHgSErcY8ATUFojFsPpJoglm6avQrUfp5qbpq9CtR-nmtR5hfHvknVQvdvdZDGndafP_1s0usWVru1m7-lwViGG&_nc_ohc=NkuEmIqxf-0AX8cebpd&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfATeFynjU9c73Amrf0McXdw6_8ICv5UFSqurhyghrCElA&oe=63F4F125" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1lq8hZ3SLwwvOg10kAPXXqeHDt-Ec_UrX" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331923226_1373897950043829_3129379844458586610_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFDd4c20PkgJM42odjOgThQrTbOgRBHNc2tNs6BEEc1zf2Kfu3grFkUTQpGyuoUC0ee0R4g8nvW6DEJYG8mtLeh&_nc_ohc=882SZ-x8AW0AX_KqEsF&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCE4Aqyrjqzt8vG-mKOLS41p8_fluNmrNpe2yUIDkreRA&oe=63F5C49B" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1alfHh4sUIIRzRjguPOBwxWFFxR5uAV5Z" className="img-fluid" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -36,11 +36,17 @@ function Wayira() {
                             <span className="visually-hidden">Next</span>
                         </button>
                     </div>
-                    <div >
-                        <br />
-                        <br />
-                        <h2 className=' text-center' >Ubicación</h2>
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/332019920_752544002916123_5691212954111361010_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeF-zA-9CQD7AljLWP9k5N8otMgLocI1PPG0yAuhwjU88UaCURVJc3rs5AgcWFyQIndPKHZwaW10OJX4LlZ_Gmc8&_nc_ohc=mToLS1bYgiAAX-Ao73j&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCvGyPB1mibq-8ut7ilEOxdQlqVAj4A3KHWp5_ROd3gIQ&oe=63F65FB3" class="img-fluid mapa" alt="..." width="60%" />
+                    <div className=' m-3'>
+                        <h2 align='center' >Qué Incluye?</h2>
+                        <p >✅Vuelo ida y regreso </p>
+                        <p >✅Alojamiento 5 días y 4 noches </p>
+                        <p >✅Desayuno, almuerzo y cena estilo buffet</p>
+                        <p >✅Equipaje de mano de 6kg (mochila)  </p>
+                        <p >✅Asistencia médica. </p>
+                        <p >✅Seguro hotelero.  </p>
+                        <p > <b>🔺 No incluye</b> <br />
+                            ❌ Tours dentro de la tarifa ( tiene costo adicional) <br />
+                            ❌ Bebidas alcoholicas en el bar</p>
                     </div>
                 </div>
             </div>

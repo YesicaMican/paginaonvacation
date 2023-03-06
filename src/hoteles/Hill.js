@@ -12,19 +12,19 @@ export default function Hill() {
             <div id="carouselExample" className="carousel slide ">
                 <div className="carousel-inner">
                     <div className="carousel-item active" >
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331888385_873919373831440_1957273317718638188_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeF3RyfFDEpn8cT92R9wqGLbluluc20O9M6W6W5zbQ70zu2aiX_bidTGtEhuEmu2p58q9TDOX6ohL_uMOH0xAGXe&_nc_ohc=8cgixmLWeE8AX8K7s1k&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAQtwJZcQFFgTytPuktRQcNhLKgrr4pyRA9LCCJ2SKjqg&oe=63F402CD" className="img-fluid" alt="..." />
+                        <img src="http://drive.google.com/uc?export=view&id=1HF9iB-HwX8hVp55bsDtnylvm05A2Pkla" className="img-fluid" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331878525_737879244490676_8164548464878498572_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFOwZSiJSt8g03saFTpmezLeX1bwE0Vr0d5fVvATRWvR6DIjqCdSjmAhAx_btqHQCHQv9NSfJizcWgy8mKQ6Lkn&_nc_ohc=hjXCO8PvHVQAX9GmTBT&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBE5nYMBTLQmLlU3JQObJXEw3XnJyVbeUIn_N5u-as2ow&oe=63F52F6C" className="img-fluid" alt="..." />
+                        <img src="http://drive.google.com/uc?export=view&id=1tVFtV6-T-pcjBLvJI3dzsROTYUJcjuMj" className="img-fluid" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331869198_728078638699046_3774573386455245218_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGHQaTPske1F-PTJ93qG6mUJ7RVEFyqmKwntFUQXKqYrIB7waMGjKLKWG5u7ffWqxh4Zlhufc_Qrxz0gPa1uJ-4&_nc_ohc=F0A1a0VNASwAX8d0Rb-&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBY0bmj3ndhOwEImqoceJIUP7DWoHw2XOh7h5mMUiaaow&oe=63F526E6" className="img-fluid" alt="..." />
+                        <img src="http://drive.google.com/uc?export=view&id=1FcGZTWZANOx90U83vCSlHxthHyzL98UF" className="img-fluid" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331911032_623992969555754_2909334443755372586_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeETv88sPF2rgdrSa9yPXUaG6LfBI4J7wOnot8EjgnvA6YXclAn3S34Q2_neVGxgEHuU2hT-e49Qo5mqythX9fGY&_nc_ohc=esTXhWX11wEAX8oqFoW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfD6lM7LpjJqZ8yXSqsa9ilUBv3ZHAPGvFQnZFqboTMDHw&oe=63F48889" className="img-fluid" alt="..." />
+                        <img src="http://drive.google.com/uc?export=view&id=1tlRfg0LG0JbP5WCMM6O3itZoVsYa676H" className="img-fluid" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331891307_753554892592756_8958645429201830876_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHmENq_yOfu89CT99nlfExIRoaXaI67vAZGhpdojru8BtH7FP3SVmXewBTjCepY-1_vek0B_UKyIu0nwpFQnEdf&_nc_ohc=l2fWCYGdsuMAX-Ni7ej&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAeXZWw0Ed_NW-ySYB77YYzJJFsG3cfJ6iipKapWXTwFQ&oe=63F40292" className="img-fluid" alt="..." />
+                        <img src="http://drive.google.com/uc?export=view&id=1DWGn4GdRtkF8TXSSPUw_wMwD58vapu2D" className="img-fluid" alt="..." />
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -36,12 +36,18 @@ export default function Hill() {
                     <span className="visually-hidden">Next</span>
                 </button>
             </div>
-            <div >
-                <br />
-                <br />
-                <h2 className=' text-center' >Ubicación</h2>
-                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331948365_1323354081554509_6438696734232175705_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHPZJlEzpaI1V-EVpMAazGCqbg1tKmxrRCpuDW0qbGtEFpMjklb_qNCEaXmbF5GntXorf8ySCLwFh8nDK4GLWDd&_nc_ohc=aU7tAfBjgckAX_KtJ6s&_nc_ht=scontent.fbog14-1.fna&oh=00_AfAHVImAW6TJCWRF0pTWNDAM1h1eLfUqAH7Nm0zqxQCqdQ&oe=63F56BB7" class="img-fluid mapa" alt="..." width="60%" />
-            </div>
+            <div className=' m-3'>
+                        <h2 align='center' >Qué Incluye?</h2>
+                        <p >✅Vuelo ida y regreso </p>
+                        <p >✅Alojamiento 4 días completos </p>
+                        <p >✅Desayuno </p>
+                        <p >✅Equipaje de mano de 6kg (mochila)  </p>
+                        <p >✅Asistencia médica. </p>
+                        <p >✅Seguro hotelero.  </p>
+                        <p > <b>🔺 No incluye</b> <br />❌ Tarjeta de turismo de ingreso a la isla<br />
+                            ❌Traslado Aeropuerto - hotel - Aeropuerto<br />
+                            ❌ Tours dentro de la tarifa ( tiene costo adicional) </p>
+                    </div>
         </div>
     </div>
 

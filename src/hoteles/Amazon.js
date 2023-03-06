@@ -12,19 +12,19 @@ function Amazon() {
                     <div id="carouselExample" className="carousel slide ">
                         <div className="carousel-inner">
                             <div className="carousel-item active" >
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331985843_1214705799420898_3287395982884151159_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGayaNXHxsK6FMJ1lZ4wW0x9HPXg2zN6870c9eDbM3rztv7SLjfBDS8YiiliTWT-8BmMkVAyJkxivr98NlYYHKV&_nc_ohc=NQi3yMI0Lr8AX_3ECNP&_nc_ht=scontent.fbog14-1.fna&oh=00_AfArDeA2zaL3m2JJj-RsKbRmch6PfDuPIhnhIjAjANSCkQ&oe=63F68BC7" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1Fg2FaT0p32DUxO29Xyma4y7Baf59dkzk" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331968449_783522500053964_6737214632749438528_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH2DHMtvgGCTLluJhljxcaQ6b2_6M08qbzpvb_ozTypvJck82Gj4vnKIXazU5KuYiqbuqgK-CquZPdEDmKWMy9E&_nc_ohc=BhDGJMJeXDQAX9mgip7&_nc_oc=AQkPCtROS8W2IlokS_snr9A7KyFnf_6aRNdyp3MkwwIO8ZX4nrdUUo_sgPio5i5l9FE&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCY0V1Vf7nfGTZ5mZtQ3Mg5fMhL2zmAeuaW95_QRCRE8w&oe=63F57B09" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1P1U_7azHpyOu7Aqohgyarprr1W-dSjGs" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331958713_693935962417255_8709603294192551749_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHa3Ol4CD-PgcljKz5coYa2KKb7PxuESHQopvs_G4RIdHAyAuhduYAx0k6-vu63W4eu6t63oSN0RN_IZvbSwchs&_nc_ohc=URCjPVYk7WwAX_aFRRn&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBExOoM1Erl2dj4cYwZyof8wdMbppJGv6rFJAsyKxrE0Q&oe=63F70A14" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1h4TBvvxEHfOQtDpbyaB9_xqH0LdS0WEt" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331959157_557768786113447_3500053544640837403_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEs9H2Gir4i6o_ldvWDhjOYg1mkz9-9Z4CDWaTP371ngMAtpXBFqomcnvg1VZtOuFl6jjTOsnuO6rW6alTh-dE3&_nc_ohc=1i4sefeJhuAAX_GPhpS&_nc_oc=AQkaS02qzR3xXBV6Aijr2zyOCaboSy2OnLIzGMZ4mVGu9XAW80ckbPWe4qz-iMgoMDs&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBYjZcxqxRVHKiOt7K8vsRCA7aPrlCyIxA0kpBjeALncQ&oe=63F69331" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1Be9B2tI_I28FmgDplKKnbgkp958ktzUH" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331938270_597100435209493_4853313583001276633_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHknVZ6MJeiVWkBkO2UX9WbSGxYATugGPhIbFgBO6AY-B00w-G6pR6-2Hq5gqYP_2K-V55yx_A4FQOQPp_v0HWN&_nc_ohc=QR5tSg7T5zQAX-75GcL&tn=8xH0haynASGBlYhW&_nc_ht=scontent.fbog14-1.fna&oh=00_AfCfj8CvfJZBTMruvoJmInQWUxku9fefq1tKQSQGh3E8Aw&oe=63F73833" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=19UKBN7D0ox6ZsPqO0YmDDctIFj7VlLvc" className="img-fluid" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -36,11 +36,19 @@ function Amazon() {
                             <span className="visually-hidden">Next</span>
                         </button>
                     </div>
-                    <div >
-                        <br />
-                        <br />
-                        <h2 className=' text-center' >Ubicación</h2>
-                        <img src="https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331434086_593364582698495_5432311634525258488_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHcoQ_9DAGyEd4NojgMnMS67Alzg5ZaqdbsCXODllqp1h662UQHHDwK8X2DFcLhRlp0R5Q3IhYAVDKO1VoNh09k&_nc_ohc=LhwmTfxHLYoAX-NF_6m&_nc_ht=scontent.fbog14-1.fna&oh=00_AfApMTK3sBoLyzbGyK6UtYOX5YnLTVBGRzGlQJHvBkCMnQ&oe=63F551A6" class="img-fluid mapa" alt="..." width="60%" />
+                    <div className=' m-3'>
+                        <h2 align='center' >Qué Incluye?</h2>
+                        <p >✅Vuelo ida y regreso </p>
+                        <p >✅Traslado Aeropuerto - hotel - Aeropuerto</p>
+                        <p >✅Alojamiento 4 días completos </p>
+                        <p >✅Desayuno, Almuerzo y cena buffet</p>
+                        <p >✅Bebidas ilimitadas disponibles en el bar</p>
+                        <p >✅Equipaje de mano de 6kg (mochila)  </p>
+                        <p >✅Asistencia médica. </p>
+                        <p >✅Seguro hotelero.  </p>
+                        <p > <b>🔺 No incluye</b> <br />
+                            ❌Impuesto de $36.000 entrada al Amazonas<br />
+                            ❌Tours dentro de la tarifa ( son adcionales)</p>
                     </div>
                 </div>
             </div>
