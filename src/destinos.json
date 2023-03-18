@@ -118,7 +118,7 @@
     {
       "hotel": "Hotel Grand Riviera Princess",
       "descripcion": "Es un hotel de 5 estrellas en Riviera Maya que presenta una de las mejores ubicaciones al pie de playa, permitiéndote disfrutar de forma cómoda y única de una fina arena y agua cristalina.",
-      "imagen": "https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331287607_5669489766509734_2701869174628738958_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFuP7gHJlzXDAhsR5_8b15qeoYsZx1O1mV6hixnHU7WZR6xJs8tP0OZK_Siynujwj1T5eYJpdmOdEWvx1pT5O2E&_nc_ohc=1jYqQMePBp0AX9dkVyE&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBuhWrBq0dWYNjGQZBsKsUPsDE7BkenmDKWqXuVKrzlEg&oe=63F45880",
+      "imagen": "http://drive.google.com/uc?export=view&id=16ymcSwplFNcHLv64P47XgoZa5w-xtLiI",
       "ruta": "./App",
       "masinformacion": "princess"
     }
@@ -126,7 +126,7 @@
     {
       "hotel": "Hotel RIU Dunamar",
       "descripcion": "Se encuentra ubicado al borde de una paradisíaca playa en Costa Mujeres, Quintana Roo, a unos 30 kilómetros de la zona hotelera de Cancún. Este hotel en Cancún - Costa Mujeres con Todo Incluido 24 horas cuenta con WiFi gratuito en todo el hotel",
-      "imagen": "https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331910937_1378090046320290_5547031212293835650_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHPwJmbaJifQ_7nwX_AHguqWdHKrUxQnm9Z0cqtTFCeb08BsmUHoqioInyFZ91k1TTvhyDZmvy3YqsLuzGNOd-S&_nc_ohc=Oa08I7So1VUAX9_3CtK&_nc_ht=scontent.fbog14-1.fna&oh=00_AfDOkiAlXHPldXi3lsqkloIfiQOzxHph6UpNlzko0tBsiA&oe=63F4FA96",
+      "imagen": "http://drive.google.com/uc?export=view&id=1TY2k1letWiFrVu_rrAjflCa7_9MBPr8d",
       "ruta": "./App",
       "masinformacion": "dunamar"
     }
@@ -134,9 +134,53 @@
     {
       "hotel": "Hotel RIU Playacar ",
       "descripcion": "Situado sobre la impresionante Playa del Carmen, el Hotel Riu Playacar te ofrece el plan perfecto para disfrutar de unas vacaciones inolvidables gracias a su servicio Todo Incluido 24 horas.",
-      "imagen": "https://scontent.fbog14-1.fna.fbcdn.net/v/t39.30808-6/331619864_524359103020550_2515068327637793995_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeF8lqZYh8dPOzM1q00_nUwptQbb_yYPD0O1Btv_Jg8PQzzChoiKoU3PEbUSXzTz-NAgFtlQzhtwEGH4f989O1Bj&_nc_ohc=zG4bijsbPiQAX9l-X7W&_nc_ht=scontent.fbog14-1.fna&oh=00_AfBfEiLDcssbE8aTMAeDDpSDgmbE9YqA7xcTWW1mACAXMg&oe=63F57D54",
+      "imagen": "http://drive.google.com/uc?export=view&id=1G6k75j6GvW-kWaZahqCIC0zcsP8s4iWs",
       "ruta": "./App",
       "masinformacion": "playacar"
     }
+    ,
+    {
+      "hotel": "Hotel Nyx ",
+      "descripcion": "Situado sobre la impresionante Playa del Carmen, el Hotel Riu Playacar te ofrece el plan perfecto para disfrutar de unas vacaciones inolvidables gracias a su servicio Todo Incluido 24 horas.",
+      "imagen": "http://drive.google.com/uc?export=view&id=1G6k75j6GvW-kWaZahqCIC0zcsP8s4iWs",
+      "ruta": "./App",
+      "masinformacion": "nyx"
+    } 
+  ],
+  "destinopanama": [
+    {
+      "hotel": "Hotel Playa Blanca",
+      "descripcion": "Esta pequeña ciudad se ha convertido en el destino ideal para las vacaciones de los habitantes del centro del país, cuenta con un excelente clima, facilidades de transporte y diferentes atractivos turísticos.",
+      "imagen": "http://drive.google.com/uc?export=view&id=1WZyxW8yTc2FbOnmuSsJdVVYViYTxIjjf",
+      "ruta": "./App",
+      "masinformacion": "playablanca"
+    }
+
   ]
+,
+"destinopuntacana": [
+  {
+    "hotel": "Hotel Tropical Deluxe Princess",
+    "descripcion": "El Hotel Tropical Deluxe Princess se funde con la belleza incomparable de las Playas de Bávaro situadas en la provincia de Altagracia en la República Dominicana. ",
+    "imagen": "http://drive.google.com/uc?export=view&id=14USmwGgamWu00pQiw7Mxhk_Pk0q6JVN1",
+    "ruta": "./App",
+    "masinformacion": "tropical"
+  },
+  {
+    "hotel": "Hotel Grand Bavaro Princess",
+    "descripcion": "El Grand Bávaro Princess recientemente renovado es un alojamiento 5 estrellas con régimen de Todo Incluido.",
+    "imagen": "http://drive.google.com/uc?export=view&id=1Mh1pS3TIXrmdtvKzlN_ZxjWx1cUf4O2u",
+    "ruta": "./App",
+    "masinformacion": "bavaro"
+  }
+  ,
+  {
+    "hotel": "Hotel Caribe Bavaro Princess",
+    "descripcion": "El hotel Caribe Deluxe Princess está situado en una de las más bellas playas de la República Dominicana, Playa Bávaro.",
+    "imagen": "http://drive.google.com/uc?export=view&id=1EGGPU2gv64aT1zqkmV1k1_KFV7bDqziN",
+    "ruta": "./App",
+    "masinformacion": "caribedelux"
+  }
+
+]
 } 

@@ -28,6 +28,11 @@ import Princess from "./hoteles/Princess";
 import Dunamar from "./hoteles/Dunamar";
 import Playacar from "./hoteles/Playacar";
 import background from "./fondo.jpg";
+import Playablanca from "./hoteles/Playablanca";
+import Nyx from "./hoteles/Nyx";
+import Tropical from "./hoteles/Tropical";
+import Bavaro from "./hoteles/Bavaro";
+import Caribedelux from "./hoteles/Caribedelux";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -59,6 +64,11 @@ root.render(
             <Route path="/princess" element={<Princess />} />
             <Route path="/dunamar" element={<Dunamar />} />
             <Route path="/playacar" element={<Playacar />} />
+            <Route path="/playablanca" element={<Playablanca />} />
+            <Route path="/nyx" element={<Nyx />} />
+            <Route path="/tropical" element={<Tropical />} />
+            <Route path="/bavaro" element={<Bavaro />} />
+            <Route path="/caribedelux" element={<Caribedelux />} />
           </Routes>
 
           <Footer />

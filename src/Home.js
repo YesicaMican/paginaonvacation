@@ -8,6 +8,8 @@ import MAPArm from "./MAPArm";
 import MAPGir from "./MAPGir";
 import App from "./App";
 import "./App.css"
+import MAPpan from './MAPpan';
+import MAPcana from './MAPcana';
 
 
 function Home() {
@@ -32,6 +34,10 @@ function Home() {
   <MAPGir />
   <h1 className="container-fluid text-center">Cancún</h1>
   <MAPCUN />
+  <h1 className="container-fluid text-center">Panamá</h1>
+  <MAPpan />
+  <h1 className="container-fluid text-center">Punta Cana</h1>
+  <MAPcana />
   </>
   
   )

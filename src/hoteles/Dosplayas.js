@@ -36,22 +36,19 @@ function Dosplayas() {
                             <span className="visually-hidden">Next</span>
                         </button>
                     </div>
-                    <div className='m-3'>
+                    <div className='col-lg-6 m-3'>
 
                         <h2 align='center' >Qué Incluye?</h2>
-                        <p >✅Tiquete aéreo ida y regreso hacia Cancún </p>
-                        <p >✅Traslado Aeropuerto - hotel - Aeropuerto </p>
-                        <p >✅Alojamiento 5 noches y 6 días </p>
+                        <p >✅Vuelo ida y regreso </p>
+                        <p >✅Alojamiento 4 días completos </p>
                         <p >✅Alimentación (desayuno, almuerzo y cena buffet) </p>
                         <p >✅Bebidas y cócteles Ilimitados habilitados en el bar </p>
-                        <p >✅Snacks</p>
-                        <p >✅Equipaje de 20 kg </p>
-                        <p >✅Asistencia médica. </p>
+                        <p  >✅Equipaje de mano de 6kg (mochila)  </p>
+                        <p>✅Asistencia médica. </p>
                         <p >✅Seguro hotelero.  </p>
-                        <p >✅Tour: visita mirador de playa delfines, Hacienda del tequila y al mercado 28  </p>
-                        <p  > <b>🔺 No incluye</b> <br />
-                            ❌Para Cancún impuesto de saneamiento ambiental en Cancún valor $1.36USD por noche por habitación. (pago en destino).Derecho de Aprovechamiento de Bienes de Dominio Público valor $10USD por persona. <br />
-                            <br />❌ Entrada a los sitios turísticos, servicios, receptivos y alimentación no relacionados</p>
+                        <p  > <b>🔺 No incluye</b> <br />❌ Tarjeta de turismo de ingreso a la isla<br />
+                            ❌Traslado Aeropuerto - hotel - Aeropuerto<br />
+                            ❌ Tours dentro de la tarifa ( tiene costo adicional) </p>
                     </div>
                 </div>
             </div>

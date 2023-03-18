@@ -1,30 +1,30 @@
 import React from 'react'
 
-function Princess() {
+function Tropical() {
     return (
         <div className='justify'>
             <br />
             <br />
-            <h1>Hotel Grand Princess</h1>
+            <h1>Hotel Tropical Deluxe Princess</h1>
             <div className='justify'>
-                <p >Es la opción perfecta para unas vacaciones prácticas y completas en el Caribe mexicano, sin preocuparte de nada. El hotel ideal para familias, parejas, jóvenes, amigos y grupos que viajen en busca de las mejores vacaciones en el Caribe</p>
+                <p >El Hotel Tropical Deluxe Princess se funde con la belleza incomparable de las Playas de Bávaro situadas en la provincia de Altagracia en la República Dominicana. Situándose a 25 km del aeropuerto de Punta Cana, el resort está rodeado de un espléndido palmeral y se ubica en primera línea de playa, convirtiéndose en un lugar ideal para unas felices vacaciones en familia en uno de los mejores hoteles vacacionales en Punta Cana</p>
                 <div style={{ display: "flex" }}>
-                    <div id="carouselExample" className="carousel slide ">
+                    <div id="carouselExample" className="carousel slide">
                         <div className="carousel-inner">
                             <div className="carousel-item active" >
-                                <img src="http://drive.google.com/uc?export=view&id=1nYzGGlp2g1zFvsOO4P-gO47Z2qK83Tn5" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1KxDJNiCOkeHqtIcnm86fUUD3UpyNx6jL" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1abwCyWME2adz2PV-EUsKOALTIWVbDauC" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1_udWUmkrvrDMNGENL3_pC8Q8lt-07d3g" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1-aUO-JtAtSf-SWUYtWA2NqZV9_1NRXkl" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1YzXU1Li53bZM0RN57aFIBz92Z1weQwT6" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1EE0KMIPdpbh_xZC7-JEDOrUsA91xVKjd" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=19yryytVps_vqPJ4zZhyhZJrxKlNvTPF7" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1hUg53xvpNo3IhVgtzFQVCB3tOoOSDtzT" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1o43_6ytqVgoGgEIzvyxLna8F6XkX44NX" className="img-fluid" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -36,46 +36,42 @@ function Princess() {
                             <span className="visually-hidden">Next</span>
                         </button>
                     </div>
-
                     <div className='col-lg-6'>
                         <div className='m-3'>
 
                             <h2 align='center' >Qué Incluye?</h2>
-                            <p >✅Tiquete aéreo ida y regreso hacia Cancún </p>
+                            <p >✅Tiquete aéreo ida y regreso</p>
                             <p >✅Traslado Aeropuerto - hotel - Aeropuerto </p>
-                            <p >✅Alojamiento 5 noches y 6 días </p>
+                            <p >✅Alojamiento 4 días y 4 noches</p>
                             <p >✅Alimentación (desayuno, almuerzo y cena buffet) </p>
                             <p >✅Bebidas y cócteles Ilimitados habilitados en el bar </p>
                             <p >✅Snacks</p>
                             <p >✅Equipaje de 20 kg </p>
                             <p >✅Asistencia médica. </p>
                             <p >✅Seguro hotelero.  </p>
-                            <p >✅Tour: visita mirador de playa delfines, Hacienda del tequila y al mercado 28  </p>
+                            <p >✅Tour de compras, degustación de Ron y Chocolate </p>
                             <p  > <b>🔺 No incluye</b> <br />
-                                ❌Para Cancún impuesto de saneamiento ambiental en Cancún valor $1.36USD por noche por habitación. (pago en destino).Derecho de Aprovechamiento de Bienes de Dominio Público valor $10USD por persona. <br />
-                                <br />❌ Entrada a los sitios turísticos, servicios, receptivos y alimentación no relacionados</p>
+                                ❌Entrada a los sitios turísticos <br />
+                                ❌ Transporte y alimentación no relacionada, Servicios receptivos </p>
                         </div>
                     </div>
                 </div>
-
             </div>
 
-
             <br />
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/pGF66m5BsHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
+            <iframe width="700" height="400" src="https://www.youtube.com/embed/_ScTs_YDZsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
             <br />
             <br />
             <div className='servicios'>
                 <h2 className='title'>Que servicios ofrece el hotel?</h2>
                 <br />
                 <br />
-                <p> Deportes acuáticos no motorizados</p>
-                <p> Club de niños</p>
-                <p> Restaurantes</p>
-                <p> Discoteca</p>
-                <p> Piscinas</p>
-                <p> Cancha de tenis</p>
-                <p> Bar</p>
+                <p> Heladería</p>
+                <p> Club para niños</p>
+                <p> Gimnasio</p>
+                <p> 3 Piscinas</p>
+                <p> 7 restaurantes</p>
+                <p> 9 bares </p>
             </div>
             <br />
             <div className="row">
@@ -83,13 +79,13 @@ function Princess() {
                     <h1 className='title'>
                         ¿Dónde queda?
                     </h1>
-                    <p>Se encuentra enclavado en el emplazamiento ideal, junto a una impresionante playa de arenas blancas en la Riviera Maya, próximo a las principales atracciones turísticas y lugares de interés de la región, ubicado en prolongación 5ta avenida Mza 20 Lote 006 Playa del Carmen Quintana Roo 7771.
+                    <p>Playas de Bavaro, Bávaro, 23000 Punta Cana, República Dominicana
                     </p>
 
                     <h1 className='title'>
                         ¿Qué servicios tiene mi habitación?
                     </h1>
-                    <p>Habitación con 1 cama king o dos camas doble, sofá, baño con ducha, secador de pelo, caja de seguridad, aire acondicionado y ventilador de techo, cafetera eléctrica, televsior, mini bar (agua, refrescos, y cerveza), balcón/terraza y tina de hidromasajes.</p>
+                    <p>Internet WiFi, TV por cable, minibar, aire acondicionado, baño privado, closet, cajilla de seguridad</p>
                     <h1 className='title'>
                         ¿Qué horarios tiene el check-in y check-out?
 
@@ -98,13 +94,13 @@ function Princess() {
                     <h1 className='title'>
                         ¿Qué hay para hacer en el hotel?
                     </h1>
-                    <p>Piscina para adultos y niños, algunas con tinas de hidromasajes en el interior, actividades organizadas durante el día y entretenimiento nocturno en el teatro Princess, discoteca Areito, todos los miercoles en las noches contaras con un expecial de mariachis, práctica de tenis o paddle, basquetbol.</p>
+                    <p>Puedes disfrutar la piscina, el bar, gimnasio, canchas de tennis o servicios de spa con costo adicional.</p>
                 </div>
                 <div className="col-lg-6 reco">
                     <h1 className='title'>
                         Servicios extras y atracciones con costo adicional
                     </h1>
-                    <p>Spa, centro médico, centro de negocios, tiendas, servicio a la habitación, servicio de niñera, lavandería, llamadas nacionales e internacionales</p>
+                    <p>Isla Saona, Buggies en Punta Cana, Hacienda Park, Tour Santo Domingo, Nado con Delﬁnes, Safary Trouck, Coco Bongo Punta Cana</p>
                     <h1 className='title'>
                         ¿De qué categoría es el hotel?
                     </h1>
@@ -113,18 +109,17 @@ function Princess() {
                         ¿Cuál es el horario del Bar?
 
                     </h1>
-                    <p> Desde las 09:00 hasta las 00:00. (Lobby)Contamos con un sport bar con comida tipo snack y bebida 24 horas.</p>
+                    <p> 24 horas</p>
                     <h1 className='title'>
-                        ¿Cuál es el horario del restaurante?
+                        ¿Cuál es la gastronómia del hotel?
 
                     </h1>
-                    <p>Desayuno: De 07:00 a 10:30 • Almuerzo: De 12:00 a 15:00 • Cena: De 18:00 a 23:00. <br></br>Horario de los restaurantes a la carta de 18:00 a 22:00.
+                    <p>Desayuno: 7:00 a 11:00 hrs <br />Almuerzo: 13:00 a 15:00 hrs<br /> Cena: 18:30 a 22:00 hrs
                     </p>
                 </div>
             </div>
         </div>
-
     )
 }
 
-export default Princess
+export default Tropical

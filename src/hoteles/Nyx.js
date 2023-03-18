@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Dunamar() {
-    return (
-        <div className='justify'>
+function Nyx() {
+  return (
+    <div className='justify'>
             <br />
             <br />
-            <h1>Hotel Dunamar</h1>
+            <h1>Hotel Nyx</h1>
             <div className='justify'>
                 <p >Este hotel en Cancún - Costa Mujeres tiene un sinfín de servicios cuenta con una amplia oferta gastronómica, adicionalmente podrás disfrutar de los mejores programas de entretenimiento tanto diurnos como nocturnos, de música y shows en directo que harán que tus  vacaciones inolvidables. </p>
                 <div style={{ display: "flex" }}>
@@ -119,7 +119,7 @@ function Dunamar() {
                 </div>
             </div>
         </div>
-    )
+  )
 }
 
-export default Dunamar
+export default Nyx
