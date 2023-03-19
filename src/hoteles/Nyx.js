@@ -7,24 +7,24 @@ function Nyx() {
             <br />
             <h1>Hotel Nyx</h1>
             <div className='justify'>
-                <p >Este hotel en Cancún - Costa Mujeres tiene un sinfín de servicios cuenta con una amplia oferta gastronómica, adicionalmente podrás disfrutar de los mejores programas de entretenimiento tanto diurnos como nocturnos, de música y shows en directo que harán que tus  vacaciones inolvidables. </p>
+                <p >Descubre y sumérjete en la verdadera esencia de Cancún, México, y disfruta de cada momento!  Su ubicación, su diseño, así como su amplia gama de servicios y actividades para todas las edades, convierten al Hotel NYX Cancún en un resort perfecto donde familias, parejas o grupos de amigos pueden disfrutar de unos inolvidables y merecidos días de descanso.</p>
                 <div style={{ display: "flex" }}>
                     <div id="carouselExample" className="carousel slide ">
                         <div className="carousel-inner">
                             <div className="carousel-item active" >
-                                <img src="http://drive.google.com/uc?export=view&id=1RJ2DTtZvgnWyRdu4e9O-lyY4fZUyBhNg" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1pUawsuuA-hgeiqA7t0xRCR2j6HZZdEds" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1iBq-5RD6W3CgvA2XRlcj4YaLgFnhrNqk" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1m4IxEOhlOmz6-eJfNO_6T5tPsF6-0Bts" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1EfnZUdYCXLmj-knNOYl9h9BNqQKRtB97" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1JN1-K3CR9mc7L6rikFl5X7utZkcp2ULO" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1AR0gNvA4MlLRAxWadHLy7vWiU8j5h7aI" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1KBzRqckhw633Gb3u_3Ib2ObgXww7PVUh" className="img-fluid" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=15Q6fNTteSU3DRG5WILqLH3E8eOtQF1-P" className="img-fluid" alt="..." />
+                                <img src="http://drive.google.com/uc?export=view&id=1Mc32DqwwbkWWft9tHyVbi090Oj32uUe-" className="img-fluid" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -59,7 +59,7 @@ function Nyx() {
             </div>
 
             <br />
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/nmD6ULdjzaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
+            <iframe width="700" height="400" src="https://www.youtube.com/embed/6p3q5gZRwig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
             <br />
             <br />
             <div className='servicios'>

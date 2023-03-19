@@ -1,4 +1,3 @@
-import React from 'react'
 import MapADZ from "./MapADZ";
 import MapRCH from "./MapRCH";
 import MapCTG from "./MapCTG";
@@ -10,15 +9,19 @@ import App from "./App";
 import "./App.css"
 import MAPpan from './MAPpan';
 import MAPcana from './MAPcana';
+import AdModal from "./Admodal";
+import React, { useState } from 'react';
 
 
 function Home() {
-  
+  const [showAd, setShowAd] = useState(true);
+
+  const handleClose = () => setShowAd(false);
   return (
     
-      
     
   <>
+  <AdModal show={showAd} handleClose={handleClose} />
   <App />
   <h1 className="container-fluid text-center">San Andres</h1>
   <MapADZ  className="enviar-fondo"/>

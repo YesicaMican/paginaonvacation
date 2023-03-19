@@ -141,8 +141,8 @@
     ,
     {
       "hotel": "Hotel Nyx ",
-      "descripcion": "Situado sobre la impresionante Playa del Carmen, el Hotel Riu Playacar te ofrece el plan perfecto para disfrutar de unas vacaciones inolvidables gracias a su servicio Todo Incluido 24 horas.",
-      "imagen": "http://drive.google.com/uc?export=view&id=1G6k75j6GvW-kWaZahqCIC0zcsP8s4iWs",
+      "descripcion": "",
+      "imagen": "http://drive.google.com/uc?export=view&id=1nZCra-vpOJW23lp3xgvfpe-cr3REOD41",
       "ruta": "./App",
       "masinformacion": "nyx"
     } 
