@@ -2,7 +2,7 @@ import React from "react";
 
 function Amazon() {
   return (
-    <div className="container">
+    <div className="container"> 
       <br />
       <br />
       <h1>Hotel Amazon</h1>
