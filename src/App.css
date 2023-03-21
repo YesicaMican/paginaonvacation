@@ -132,13 +132,6 @@
   text-align:left;
   padding: 50px;
 }
-
-.carousel{
-
-  height:auto;
-  width: 50%;
-
-}
 .titulo {
   font-size: 30px;
 }
@@ -191,9 +184,11 @@ animation-name: AnimacionDU;
   line-height: 0.5;
   font-family:"Latin Modern Roman";
 }
-.video {
-  margin-left: 25%;
+.video{
+  width: 780px;
+  height: 540px;
 }
+
 .anuncio {
   margin-bottom: 30px;
   text-align: center;
@@ -205,13 +200,10 @@ animation-name: AnimacionDU;
   
 }
 
+
+
 .fondo{
   background-attachment: fixed;
 }
 
-.promos{
-
-  @media screen {
-    0
-  }
-}
+ 
