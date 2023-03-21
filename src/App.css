@@ -132,13 +132,6 @@
   text-align:left;
   padding: 50px;
 }
-
-.carousel{
-
-  height:auto;
-  width: 50%;
-
-}
 .titulo {
   font-size: 30px;
 }
@@ -166,7 +159,7 @@ animation-name: AnimacionDU;
   animation-direction: alternate;
 }
 .mapa{
-  margin-left: 20%;
+  margin-left: 5%;
 }
 
 .reco{
@@ -193,7 +186,14 @@ animation-name: AnimacionDU;
   line-height: 0.5;
   font-family:"Latin Modern Roman";
 }
-.video {
-  margin-left: 25%;
+/* .video{
+  width: 780px;
+  height: 540px;
 }
+@media screen and (max-width: 767px) {
+  .video{
+    width: 340px;    
+    height: 200px;
+  }
+} */
 
