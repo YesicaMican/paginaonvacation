@@ -29,7 +29,7 @@ function Destino({hoteles,efectoderecha}) {
   const navigate = useNavigate();
 
   return (
-    <div className="col-sm-4 mt-2" key={hoteles.hotel}>
+    <div className="col-sm-6 mt-2" key={hoteles.hotel}>
       <div className="miClase" ref={ref}>
         <animated.div style={props}>
           <div className="card text-bg-dark">

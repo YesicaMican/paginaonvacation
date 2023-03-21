@@ -11,6 +11,7 @@ import MAPpan from './MAPpan';
 import MAPcana from './MAPcana';
 import AdModal from "./Admodal";
 import React, { useState } from 'react';
+import Promo from "./hoteles/Promo";
 
 
 function Home() {
@@ -23,6 +24,8 @@ function Home() {
   <>
   <AdModal show={showAd} handleClose={handleClose} />
   <App />
+  <h2 className="container-fluid text-center">Conoce mas de nuestras promociones</h2>
+  <Promo />
   <h1 className="container-fluid text-center">San Andres</h1>
   <MapADZ  className="enviar-fondo"/>
   <h1 className="container-fluid text-center">Guajira</h1>

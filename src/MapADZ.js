@@ -13,4 +13,4 @@ function MapADZ() {
   );
 }
 
-export default MapADZ;    
+export default MapADZ;      
