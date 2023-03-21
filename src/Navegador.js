@@ -16,11 +16,11 @@ function Navegador() {
         </li>
         <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" href="http://www.google.com" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Acerca de
+            Pagos o verificación de reservas
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="http://www.google.com">Contáctenos</a></li>
-            <li><a className="dropdown-item" href="http://www.google.com">Quienes Somos</a></li>
+            <li><a className="dropdown-item" href="https://pagosonline.onvacation.com">Pagos Online</a></li>
+            <li><a className="dropdown-item" href="https://mireserva.onvacation.com">Mi reserva</a></li>
             <li><hr className="dropdown-divider"/></li>
           </ul>
         </li>

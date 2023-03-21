@@ -24,25 +24,27 @@ function Home() {
   <>
   <AdModal show={showAd} handleClose={handleClose} />
   <App />
-  <h2 className="container-fluid text-center">Conoce mas de nuestras promociones</h2>
+  <br></br>
+  <h2 className="container-fluid text-center AB3">Conoce mas de nuestras promociones</h2>
   <Promo />
-  <h1 className="container-fluid text-center">San Andres</h1>
+  <br></br>
+  <h1 className="container-fluid text-center AB4" >San Andres</h1>
   <MapADZ  className="enviar-fondo"/>
-  <h1 className="container-fluid text-center">Guajira</h1>
+  <h1 className="container-fluid text-center AB4">Guajira</h1>
   <MapRCH />
-  <h1 className="container-fluid text-center">Cartagena</h1>
+  <h1 className="container-fluid text-center AB4">Cartagena</h1>
   <MapCTG />
-  <h1 className="container-fluid text-center">Amazonas</h1>
+  <h1 className="container-fluid text-center AB4">Amazonas</h1>
   <MapLET />
-  <h1 className="container-fluid text-center">Eje Cafetero</h1>
+  <h1 className="container-fluid text-center AB4">Eje Cafetero</h1>
   <MAPArm />
-  <h1 className="container-fluid text-center">Girardot</h1>
+  <h1 className="container-fluid text-center AB4">Girardot</h1>
   <MAPGir />
-  <h1 className="container-fluid text-center">Cancún</h1>
+  <h1 className="container-fluid text-center AB4">Cancún</h1>
   <MAPCUN />
-  <h1 className="container-fluid text-center">Panamá</h1>
+  <h1 className="container-fluid text-center AB4">Panamá</h1>
   <MAPpan />
-  <h1 className="container-fluid text-center">Punta Cana</h1>
+  <h1 className="container-fluid text-center AB4">Punta Cana</h1>
   <MAPcana />
   </>
   

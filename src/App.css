@@ -196,14 +196,20 @@ animation-name: AnimacionDU;
   font-family:"Latin Modern Roman";
 }
 .B2{
-  font-family:"Latin Modern Roman";
+  font-family:"Blogger Sans Medium Italic ";
   
 }
-
-
 
 .fondo{
   background-attachment: fixed;
 }
+.AB3 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:darkred;
+}
+.AB4 {
+  font-family:Impact,  'Arial Narrow Bold', sans-serif;
 
- 
+  color:indigo;
+  font-size:40px
+  }
