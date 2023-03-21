@@ -158,9 +158,7 @@ animation-name: AnimacionDU;
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
-.mapa{
-  margin-left: 5%;
-}
+
 
 .reco{
 
@@ -186,14 +184,26 @@ animation-name: AnimacionDU;
   line-height: 0.5;
   font-family:"Latin Modern Roman";
 }
-/* .video{
+.video{
   width: 780px;
   height: 540px;
 }
-@media screen and (max-width: 767px) {
-  .video{
-    width: 340px;    
-    height: 200px;
-  }
-} */
 
+.anuncio {
+  margin-bottom: 30px;
+  text-align: center;
+  line-height: 0.5;
+  font-family:"Latin Modern Roman";
+}
+.B2{
+  font-family:"Latin Modern Roman";
+  
+}
+
+
+
+.fondo{
+  background-attachment: fixed;
+}
+
+ 
