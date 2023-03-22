@@ -3,11 +3,11 @@ import { useState } from 'react';
 function Bluereef() {
   const [showMessage, setShowMessage] = useState(false);
   return (
-    <div className='justify'>
+    <div className='container'>
       <h1 className='bluereef1'>Blue Reef</h1>
       <p className='reco'> Ubicado en el sector de Sarie Bay a 10 minutos del centro de San Andrés y del Aeropuerto, de fácil acceso al transporte público. La propiedad ofrece a los huéspedes piscina descubierta con bañera de hidromasajes y piscina para niños.</p>
       <div className='row'>
-        <div id="carouselExample" className="carousel slide col-lg-6">
+        <div id="carouselExample" className="carousel slide col-lg-7">
           <div className="carousel-inner">
             <div className="carousel-item active" >
               <img src="http://drive.google.com/uc?export=view&id=1HO8X7KHkc7nbFLnhz1abycj2zjrFXasy" className="img-fluid" alt="..." />
@@ -34,7 +34,7 @@ function Bluereef() {
             <span className="visually-hidden">Next</span>
           </button>
         </div>
-        <div className='col-lg-6'>
+        <div className='col-lg-5'>
 
           <h2 align='center' >Qué Incluye?</h2>
           <p >✅Vuelo ida y regreso </p>
@@ -50,7 +50,20 @@ function Bluereef() {
         </div>
       </div>
       <br />
-      <iframe width="700" height="400" src="https://www.youtube.com/embed/EfcfC94htnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
+      <div style={{ position: "relative", paddingBottom: "56.25%", height: 0 }}>
+        <iframe
+          src="https://www.youtube.com/embed/EfcfC94htnw"
+          title="YouTube video player"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          style={{
+            position: "absolute",
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%",
+          }}
+        ></iframe>
+      </div>
       <br />
       <br />
       <div className='servicios'>

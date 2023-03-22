@@ -3,7 +3,7 @@ import { useState } from 'react';
 function Amazon() {
   const [showMessage, setShowMessage] = useState(false);
   return (
-    <div className="container">
+    <div className="container"> 
       <br />
       <br />
       <h1>Hotel Amazon</h1>
