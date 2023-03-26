@@ -1,42 +1,43 @@
 import React from 'react'
-
+import BotonWS from "../BotonWS";
 function Wayira() {
     return (
-        <div className='justify'>
-            <br />
-            <br />
+        <div className='container'>
+            <BotonWS />
             <h1>Wayira Beach</h1>
-            <div className='justify'>
+            <div className='container'>
                 <p >Ubicado sobre la playa Mayapo el Hotel On Vacation Wayira es el lugar perfecto para vivir el encanto de la Guajira. El hotel se encuentra ubicado a tan solo 232 mts. de la playa, a 30 minutos del aeropuerto de Riohacha y a 2 horas de Santa Marta. </p>
-                <div style={{ display: "flex" }}>
-                    <div id="carouselExample" className="carousel slide ">
-                        <div className="carousel-inner">
-                            <div className="carousel-item active" >
-                                <img src="http://drive.google.com/uc?export=view&id=10QHIRPYZDV7GQnp44lPX9PwzQs4Sd5BS" className="img-fluid" alt="..." />
+                <div className="row" style={{ display: "flex", alignItems: "center" }}>
+                    <div className="col-md-7">
+                        <div id="carouselExample" className="carousel slide ">
+                            <div className="carousel-inner">
+                                <div className="carousel-item active">
+                                    <img src="http://drive.google.com/uc?export=view&id=10QHIRPYZDV7GQnp44lPX9PwzQs4Sd5BS" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1z0cVuhyj69x7l_CGGRkKIG39YiEcfzOh" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1z2CEmylKvIZpArSBFsw0Y7UiGI8XK5xt" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1lq8hZ3SLwwvOg10kAPXXqeHDt-Ec_UrX" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1alfHh4sUIIRzRjguPOBwxWFFxR5uAV5Z" className="img-fluid" alt="..." />
+                                </div>
                             </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1z0cVuhyj69x7l_CGGRkKIG39YiEcfzOh" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1z2CEmylKvIZpArSBFsw0Y7UiGI8XK5xt" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1lq8hZ3SLwwvOg10kAPXXqeHDt-Ec_UrX" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1alfHh4sUIIRzRjguPOBwxWFFxR5uAV5Z" className="img-fluid" alt="..." />
-                            </div>
+                            <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                                <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span className="visually-hidden">Previous</span>
+                            </button>
+                            <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                                <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span className="visually-hidden">Next</span>
+                            </button>
                         </div>
-                        <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                            <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Previous</span>
-                        </button>
-                        <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                            <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Next</span>
-                        </button>
                     </div>
-                    <div className=' m-3'>
+                    <div className='col-md-5'>
                         <h2 align='center' >Qué Incluye?</h2>
                         <p >✅Vuelo ida y regreso </p>
                         <p >✅Alojamiento 5 días y 4 noches </p>
@@ -52,7 +53,20 @@ function Wayira() {
             </div>
 
             <br />
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/oD2uECZB0-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
+            <div style={{ position: "relative", paddingBottom: "56.25%", height: 0 }}>
+                <iframe src="https://www.youtube.com/embed/oD2uECZB0-c"
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    style={{
+                        position: "absolute",
+                        top: 0,
+                        left: 0,
+                        width: "100%",
+                        height: "100%",
+                    }}
+                ></iframe>
+            </div>
             <br />
             <br />
             <div className='servicios'>

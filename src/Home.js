@@ -11,6 +11,7 @@ import MAPpan from './MAPpan';
 import MAPcana from './MAPcana';
 import AdModal from "./Admodal";
 import React, { useState } from 'react';
+import Promo from "./imagenes/Promo";
 
 
 function Home() {
@@ -23,6 +24,11 @@ function Home() {
   <>
   <AdModal show={showAd} handleClose={handleClose} />
   <App />
+  
+  <br/>
+  <h1 className="container-fluid text-center">Llevalo!</h1>
+  <Promo />
+  <br/>
   <h1 className="container-fluid text-center">San Andres</h1>
   <MapADZ  className="enviar-fondo"/>
   <h1 className="container-fluid text-center">Guajira</h1>

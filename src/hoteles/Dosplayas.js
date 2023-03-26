@@ -1,10 +1,10 @@
 import React from "react";
+import BotonWS from "../BotonWS";
 
 function Dosplayas() {
   return (
     <div className="container">
-      <br />
-      <br />
+    <BotonWS/>
       <h1>Hotel Dos Playas</h1>
       <div className="container">
         <p>

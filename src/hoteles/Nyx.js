@@ -1,10 +1,9 @@
 import React from "react";
-
+import BotonWS from "../BotonWS";
 function Nyx() {
   return (
     <div className="container">
-      <br />
-      <br />
+      <BotonWS/>
       <h1>Hotel Nyx</h1>
       <div className="container">
         <p>

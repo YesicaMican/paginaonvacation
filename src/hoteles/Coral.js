@@ -1,11 +1,10 @@
 import React from "react";
-
+import BotonWS from "../BotonWS";
 export default function Coral() {
   return (
     <div className="container">
-      <br />
-      <br />
-      <h1>Coral Flower</h1>
+     <BotonWS/>
+      <h1>Hotel Coral Flower</h1>
       <div className="container">
         <p>
           {" "}

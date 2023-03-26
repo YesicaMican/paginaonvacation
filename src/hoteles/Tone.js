@@ -1,46 +1,58 @@
 import React from 'react'
-
+import BotonWS from "../BotonWS";
 export default function Tone() {
     return (
-        <div className='justify'>
-            <br />
-            <br />
+        <div className='container'>
+            <BotonWS />
             <h1>Toné</h1>
-            <div className='justify'>
-                <p > Un destino que todos debemos visitar, conocido por el mar de los 7 colores, es un paraíso que cuenta con atracciones para todos los gustos. On
+            <div className='container'>
+                <p > Un destino que todos debemos visitar, conocido por el mar de los 7 colores,
+                    es un paraíso que cuenta con atracciones para todos los gustos. On
                     Vacation te ofrece un hotel para que
                     disfrutes de la isla con las
                     comodidades que necesitas para
                     relajarte durante las vacaciones.</p>
-                <div style={{ display: "flex" }}>
-                    <div id="carouselExample" className="carousel slide ">
-                        <div className="carousel-inner">
-                            <div className="carousel-item active" >
-                                <img src="http://drive.google.com/uc?export=view&id=1bFa-wXUSrbUhhnRR841n8D87yDuCw4sb" className="img-fluid" alt="..." />
+                <div className="row" style={{ display: "flex", alignItems: "center" }}>
+                    <div className="col-md-7">
+                        <div id="carouselExample" className="carousel slide ">
+                            <div className="carousel-inner">
+                                <div className="carousel-item active">
+                                    <img src="http://drive.google.com/uc?export=view&id=1bFa-wXUSrbUhhnRR841n8D87yDuCw4sb"
+                                        className="img-fluid"
+                                        alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1ys6o-UfPmThnJqgenpuBV08ijm5rpTtl"
+                                        className="img-fluid"
+                                        alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1_pAGt_QF4Z4dHGGKVm8ZETh4m-qa1b3Q"
+                                        className="img-fluid"
+                                        alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1JKmUSqknFnPp20s50G59ueGDRdHfIM1A"
+                                        className="img-fluid"
+                                        alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1z4IzUuz8q28x9Q6BST1vHIduW8w_dibI"
+                                        className="img-fluid"
+                                        alt="..." />
+                                </div>
                             </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1ys6o-UfPmThnJqgenpuBV08ijm5rpTtl" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1_pAGt_QF4Z4dHGGKVm8ZETh4m-qa1b3Q" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1JKmUSqknFnPp20s50G59ueGDRdHfIM1A" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1z4IzUuz8q28x9Q6BST1vHIduW8w_dibI" className="img-fluid" alt="..." />
-                            </div>
+                            <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                                <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span className="visually-hidden">Previous</span>
+                            </button>
+                            <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                                <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span className="visually-hidden">Next</span>
+                            </button>
                         </div>
-                        <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                            <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Previous</span>
-                        </button>
-                        <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                            <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Next</span>
-                        </button>
                     </div>
-                    <div className='m-5'>
+                    <div className='col-md-5'>
                         <h2 align='center' >Qué Incluye?</h2>
                         <p >✅Vuelo ida y regreso </p>
                         <p >✅Alojamiento 4 días completos </p>
@@ -56,7 +68,20 @@ export default function Tone() {
             </div>
 
             <br />
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/D1uZta7OI0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
+            <div style={{ position: "relative", paddingBottom: "56.25%", height: 0 }}>
+                <iframe src="https://www.youtube.com/embed/D1uZta7OI0Y"
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    style={{
+                        position: "absolute",
+                        top: 0,
+                        left: 0,
+                        width: "100%",
+                        height: "100%",
+                    }}
+                ></iframe>
+            </div>
             <br />
             <br />
             <div className='servicios'>

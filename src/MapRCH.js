@@ -5,7 +5,7 @@ function MapRCH() {
   return (
     <div className="container">
       <div className="row">
-        {destinos.destinoeje.map((Des) => {
+        {destinos.destinoguajira.map((Des) => {
           return <Destino hoteles={Des} efectoderecha={false} />;
         })}
       </div>

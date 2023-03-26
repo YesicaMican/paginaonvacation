@@ -1,42 +1,45 @@
 import React from 'react'
-
+import BotonWS from "../BotonWS";
 export default function Tower() {
-  return (
-    <div className='justify'>
-            <br />
-            <br />
+    return (
+        <div className='container'>
+            <BotonWS />
             <h1>Tower</h1>
-            <div className='justify'>
-                <p > Hotel tipo turista ubicado en la zona comercial de San Andrés con facilidad para realizar compras de souvenirs. El hotel cuenta con dos Torres (una con Ascensor) donde puedes descansar en cómodas habitaciones</p>
-                <div style={{ display: "flex" }}>
-                    <div id="carouselExample" className="carousel slide ">
-                        <div className="carousel-inner">
-                            <div className="carousel-item active" >
-                                <img src="http://drive.google.com/uc?export=view&id=1IYzlLkqAdgMZadh_-_NToh_4nW97apXj" className="img-fluid" alt="..." />
+            <div className='container'>
+                <p > Hotel tipo turista ubicado en la zona comercial de San Andrés con
+                    facilidad para realizar compras de souvenirs. El hotel cuenta con dos Torres
+                    (una con Ascensor) donde puedes descansar en cómodas habitaciones</p>
+                <div className="row" style={{ display: "flex", alignItems: "center" }}>
+                    <div className="col-md-7">
+                        <div id="carouselExample" className="carousel slide ">
+                            <div className="carousel-inner">
+                                <div className="carousel-item active">
+                                    <img src="http://drive.google.com/uc?export=view&id=1IYzlLkqAdgMZadh_-_NToh_4nW97apXj" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1WZeFVC4CPjbtwvLxsr4JIMLE4hD1RfRg" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=18vGDBylm-NstCQDGZS0bbKzw6LIJjczv" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1KihZOYfTnRtTxIz4HrJ4VQF0GvKnacjU" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1YHypadTFkTblP5aX3hjtv8eSvCYBttqF" className="img-fluid" alt="..." />
+                                </div>
                             </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1WZeFVC4CPjbtwvLxsr4JIMLE4hD1RfRg" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=18vGDBylm-NstCQDGZS0bbKzw6LIJjczv" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1KihZOYfTnRtTxIz4HrJ4VQF0GvKnacjU" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1YHypadTFkTblP5aX3hjtv8eSvCYBttqF" className="img-fluid" alt="..." />
-                            </div>
+                            <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                                <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span className="visually-hidden">Previous</span>
+                            </button>
+                            <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                                <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span className="visually-hidden">Next</span>
+                            </button>
                         </div>
-                        <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                            <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Previous</span>
-                        </button>
-                        <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                            <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Next</span>
-                        </button>
                     </div>
-                    <div className='m-5'>
+                    <div className='col-md-5'>
                         <h2 align='center' >Qué Incluye?</h2>
                         <p >✅Vuelo ida y regreso </p>
                         <p >✅Alojamiento 4 días completos </p>
@@ -52,21 +55,34 @@ export default function Tower() {
             </div>
 
             <br />
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/jhrrrHmww_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'> </iframe>
-      <br />
-      <br />
-      <div className='servicios'>
-      <h2 className='title'>Que servicios ofrece el hotel?</h2>
-      <br />
-      <br />
-      <p> Recepción 24 horas</p>
-      <p> Bar</p>
-      <p> Restaurantes</p>
-      <p> Piscina</p>
-      <p> Torre con ascensor</p>
-      <p> Food Paradise (servicio de pago adicional)</p>
-      </div>
-      <br />
+            <div style={{ position: "relative", paddingBottom: "56.25%", height: 0 }}>
+                <iframe src="https://www.youtube.com/embed/jhrrrHmww_A"
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    style={{
+                        position: "absolute",
+                        top: 0,
+                        left: 0,
+                        width: "100%",
+                        height: "100%",
+                    }}
+                ></iframe>
+            </div>
+            <br />
+            <br />
+            <div className='servicios'>
+                <h2 className='title'>Que servicios ofrece el hotel?</h2>
+                <br />
+                <br />
+                <p> Recepción 24 horas</p>
+                <p> Bar</p>
+                <p> Restaurantes</p>
+                <p> Piscina</p>
+                <p> Torre con ascensor</p>
+                <p> Food Paradise (servicio de pago adicional)</p>
+            </div>
+            <br />
             <div className="row">
                 <div className="col-lg-6 reco">
                     <h1 className='title'>
@@ -99,5 +115,5 @@ export default function Tower() {
                 </div>
             </div>
         </div>
-  )
+    )
 }

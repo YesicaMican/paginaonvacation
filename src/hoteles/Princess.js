@@ -1,70 +1,95 @@
 import React from 'react'
-
+import BotonWS from "../BotonWS";
 function Princess() {
     return (
-        <div className='justify'>
-            <br />
-            <br />
+        <div className='container'>
+            <BotonWS />
             <h1>Hotel Grand Princess</h1>
-            <div className='justify'>
-                <p >Es la opción perfecta para unas vacaciones prácticas y completas en el Caribe mexicano, sin preocuparte de nada. El hotel ideal para familias, parejas, jóvenes, amigos y grupos que viajen en busca de las mejores vacaciones en el Caribe</p>
-                <div style={{ display: "flex" }}>
-                    <div id="carouselExample" className="carousel slide ">
-                        <div className="carousel-inner">
-                            <div className="carousel-item active" >
-                                <img src="http://drive.google.com/uc?export=view&id=1nYzGGlp2g1zFvsOO4P-gO47Z2qK83Tn5" className="img-fluid" alt="..." />
+            <div className='container'>
+                <p >Es la opción perfecta para unas vacaciones prácticas
+                    y completas en el Caribe mexicano, sin preocuparte de nada.
+                    El hotel ideal para familias, parejas, jóvenes, amigos y grupos que viajen en busca
+                    de las mejores vacaciones en el Caribe</p>
+                <div className="row" style={{ display: "flex", alignItems: "center" }}>
+                    <div className="col-md-7">
+                        <div id="carouselExample" className="carousel slide ">
+                            <div className="carousel-inner">
+                                <div className="carousel-item active">
+                                    <img src="http://drive.google.com/uc?export=view&id=1nYzGGlp2g1zFvsOO4P-gO47Z2qK83Tn5"
+                                        className="img-fluid"
+                                        alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1abwCyWME2adz2PV-EUsKOALTIWVbDauC"
+                                        className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1-aUO-JtAtSf-SWUYtWA2NqZV9_1NRXkl"
+                                        className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1EE0KMIPdpbh_xZC7-JEDOrUsA91xVKjd"
+                                        className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1hUg53xvpNo3IhVgtzFQVCB3tOoOSDtzT"
+                                        className="img-fluid" alt="..." />
+                                </div>
                             </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1abwCyWME2adz2PV-EUsKOALTIWVbDauC" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1-aUO-JtAtSf-SWUYtWA2NqZV9_1NRXkl" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1EE0KMIPdpbh_xZC7-JEDOrUsA91xVKjd" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1hUg53xvpNo3IhVgtzFQVCB3tOoOSDtzT" className="img-fluid" alt="..." />
-                            </div>
+                            <button className="carousel-control-prev"
+                                type="button" data-bs-target="#carouselExample"
+                                data-bs-slide="prev"
+                            >
+                                <span className="carousel-control-prev-icon"
+                                    aria-hidden="true"
+                                ></span>
+                                <span className="visually-hidden">Previous</span>
+                            </button>
+                            <button className="carousel-control-next"
+                                type="button" data-bs-target="#carouselExample"
+                                data-bs-slide="next">
+
+                                <span className="carousel-control-next-icon"
+                                    aria-hidden="true"></span>
+                                <span className="visually-hidden">Next</span>
+                            </button>
                         </div>
-                        <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                            <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Previous</span>
-                        </button>
-                        <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                            <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Next</span>
-                        </button>
                     </div>
-
-                    <div className='col-lg-6'>
-                        <div className='m-3'>
-
-                            <h2 align='center' >Qué Incluye?</h2>
-                            <p >✅Tiquete aéreo ida y regreso hacia Cancún </p>
-                            <p >✅Traslado Aeropuerto - hotel - Aeropuerto </p>
-                            <p >✅Alojamiento 5 noches y 6 días </p>
-                            <p >✅Alimentación (desayuno, almuerzo y cena buffet) </p>
-                            <p >✅Bebidas y cócteles Ilimitados habilitados en el bar </p>
-                            <p >✅Snacks</p>
-                            <p >✅Equipaje de 20 kg </p>
-                            <p >✅Asistencia médica. </p>
-                            <p >✅Seguro hotelero.  </p>
-                            <p >✅Tour: visita mirador de playa delfines, Hacienda del tequila y al mercado 28  </p>
-                            <p  > <b>🔺 No incluye</b> <br />
-                                ❌Para Cancún impuesto de saneamiento ambiental en Cancún valor $1.36USD por noche por habitación. (pago en destino).Derecho de Aprovechamiento de Bienes de Dominio Público valor $10USD por persona. <br />
-                                <br />❌ Entrada a los sitios turísticos, servicios, receptivos y alimentación no relacionados</p>
-                        </div>
+                    <div className='col-md-5'>
+                        <h2 align='center' >Qué Incluye?</h2>
+                        <p >✅Tiquete aéreo ida y regreso hacia Cancún </p>
+                        <p >✅Traslado Aeropuerto - hotel - Aeropuerto </p>
+                        <p >✅Alojamiento 5 noches y 6 días </p>
+                        <p >✅Alimentación (desayuno, almuerzo y cena buffet) </p>
+                        <p >✅Bebidas y cócteles Ilimitados habilitados en el bar </p>
+                        <p >✅Snacks</p>
+                        <p >✅Equipaje de 20 kg </p>
+                        <p >✅Asistencia médica. </p>
+                        <p >✅Seguro hotelero.  </p>
+                        <p >✅Tour: visita mirador de playa delfines, Hacienda del tequila y al mercado 28 {" "} </p>
+                        <p  > {" "}
+                            <b>🔺 No incluye</b> <br />
+                            ❌Para Cancún impuesto de saneamiento ambiental en Cancún valor $1.36USD por noche por habitación. (pago en destino).Derecho de Aprovechamiento de Bienes de Dominio Público valor $10USD por persona. <br />
+                            <br />❌ Entrada a los sitios turísticos, servicios, receptivos y alimentación no relacionados</p>
                     </div>
                 </div>
-
             </div>
 
+            <div style={{ position: "relative", paddingBottom: "56.25%", height: 0 }}>
 
-            <br />
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/pGF66m5BsHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
-            <br />
-            <br />
+                <iframe src="https://www.youtube.com/embed/pGF66m5BsHQ"
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    style={{
+                        position: "absolute",
+                        top: 0,
+                        left: 0,
+                        width: "100%",
+                        height: "100%",
+                    }}
+                ></iframe>
+            </div>
             <div className='servicios'>
                 <h2 className='title'>Que servicios ofrece el hotel?</h2>
                 <br />
@@ -104,7 +129,7 @@ function Princess() {
                     <h1 className='title'>
                         Servicios extras y atracciones con costo adicional
                     </h1>
-                    <p>Spa, centro médico, centro de negocios, tiendas, servicio a la habitación, servicio de niñera, lavandería, llamadas nacionales e internacionales</p>
+                    <p>Spa, centro médico, centro de negocios, tiendas, servicio a la habitación, servicio de niñera, lavandería, llamadas nacionales e internacionales {" "}</p>
                     <h1 className='title'>
                         ¿De qué categoría es el hotel?
                     </h1>
@@ -113,7 +138,7 @@ function Princess() {
                         ¿Cuál es el horario del Bar?
 
                     </h1>
-                    <p> Desde las 09:00 hasta las 00:00. (Lobby)Contamos con un sport bar con comida tipo snack y bebida 24 horas.</p>
+                    <p>  {" "} Desde las 09:00 hasta las 00:00. (Lobby)Contamos con un sport bar con comida tipo snack y bebida 24 horas.</p>
                     <h1 className='title'>
                         ¿Cuál es el horario del restaurante?
 

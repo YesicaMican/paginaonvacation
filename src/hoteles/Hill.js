@@ -1,11 +1,10 @@
 import React from "react";
-
+import BotonWS from "../BotonWS";
 export default function Hill() {
   return (
     <div className="container">
-      <br />
-      <br />
-      <h1>Coral Flower</h1>
+      <BotonWS/>
+      <h1>Hotel Coral Flower</h1>
       <div className="container">
         <p> Hotel tipo turista, ubicado a 20 minutos del aeropuerto.</p>
         <div className="row" style={{ display: "flex", alignItems: "center" }}>

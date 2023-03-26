@@ -1,10 +1,9 @@
 import React from "react";
-
+import BotonWS from "../BotonWS";
 function Girardot() {
   return (
     <div className="container">
-      <br />
-      <br />
+       <BotonWS/>
       <h1>Hotel Girardot Resort</h1>
       <div className="container">
         <p>

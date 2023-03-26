@@ -1,11 +1,11 @@
 import React from "react";
+import BotonWS from "../BotonWS";
 
 function Acantilado() {
   return (
     <div className="container">
-      <br />
-      <br />
-      <h1>Acantilado de la Tierra</h1>
+      <BotonWS/>
+      <h1>Hotel Acantilado de la Tierra</h1>
       <div className="container">
         <p>
           {" "}

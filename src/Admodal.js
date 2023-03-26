@@ -5,11 +5,14 @@ function AdModal(props) {
   return (
     <Modal show={props.show} onHide={props.handleClose}>
       <Modal.Header closeButton>
-        <Modal.Title>Anuncio</Modal.Title>
+        <Modal.Title>Promoción Semanal</Modal.Title>
       </Modal.Header>
       <Modal.Body>
-        <img src="./promo.jpg" alt="Imagen del anuncio" />
-        <p>Aquí puedes agregar el texto del anuncio.</p>
+      <a className="btn btn-success"
+            href="https://wa.me/573153201677"
+            target="_blank" rel="noreferrer"> Lo quiero! Tomalo aquí
+        <img src="http://drive.google.com/uc?export=view&id=1dSPjTBgmRj5l3Y8dFnfdYoOpoHlJquwU" alt="" className="img-fluid" />
+       </a> 
       </Modal.Body>
     </Modal>
   );

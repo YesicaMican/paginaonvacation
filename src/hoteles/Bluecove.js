@@ -1,11 +1,10 @@
 import React from "react";
-
+import BotonWS from "../BotonWS";
 function Bluecove() {
   return (
     <div className="container">
-      <br />
-      <br />
-      <h1>Blue Cove</h1>
+    <BotonWS/>
+      <h1>Hotel Blue Cove</h1>
       <div className="container">
         <p>
           {" "}

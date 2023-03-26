@@ -1,65 +1,79 @@
 import React from 'react'
-
+import BotonWS from "../BotonWS";
 function Tropical() {
     return (
-        <div className='justify'>
-            <br />
-            <br />
+        <div className='container'>
+<BotonWS />
             <h1>Hotel Tropical Deluxe Princess</h1>
-            <div className='justify'>
+            <div className='container'>
                 <p >El Hotel Tropical Deluxe Princess se funde con la belleza incomparable de las Playas de Bávaro situadas en la provincia de Altagracia en la República Dominicana. Situándose a 25 km del aeropuerto de Punta Cana, el resort está rodeado de un espléndido palmeral y se ubica en primera línea de playa, convirtiéndose en un lugar ideal para unas felices vacaciones en familia en uno de los mejores hoteles vacacionales en Punta Cana</p>
-                <div style={{ display: "flex" }}>
-                    <div id="carouselExample" className="carousel slide">
-                        <div className="carousel-inner">
-                            <div className="carousel-item active" >
-                                <img src="http://drive.google.com/uc?export=view&id=1KxDJNiCOkeHqtIcnm86fUUD3UpyNx6jL" className="img-fluid" alt="..." />
+                <div className="row" style={{ display: "flex", alignItems: "center" }}>
+                    <div className="col-md-7">
+                        <div id="carouselExample" className="carousel slide ">
+                            <div className="carousel-inner">
+                                <div className="carousel-item active">
+                                    <img src="http://drive.google.com/uc?export=view&id=1KxDJNiCOkeHqtIcnm86fUUD3UpyNx6jL" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1_udWUmkrvrDMNGENL3_pC8Q8lt-07d3g" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1YzXU1Li53bZM0RN57aFIBz92Z1weQwT6" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=19yryytVps_vqPJ4zZhyhZJrxKlNvTPF7" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1o43_6ytqVgoGgEIzvyxLna8F6XkX44NX" className="img-fluid" alt="..." />
+                                </div>
                             </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1_udWUmkrvrDMNGENL3_pC8Q8lt-07d3g" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1YzXU1Li53bZM0RN57aFIBz92Z1weQwT6" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=19yryytVps_vqPJ4zZhyhZJrxKlNvTPF7" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1o43_6ytqVgoGgEIzvyxLna8F6XkX44NX" className="img-fluid" alt="..." />
-                            </div>
+                            <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                                <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span className="visually-hidden">Previous</span>
+                            </button>
+                            <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                                <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span className="visually-hidden">Next</span>
+                            </button>
                         </div>
-                        <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                            <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Previous</span>
-                        </button>
-                        <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                            <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Next</span>
-                        </button>
                     </div>
-                    <div className='col-lg-6'>
-                        <div className='m-3'>
+                    <div className='col-md-5'>
+                        <h2 align='center' >Qué Incluye?</h2>
+                        <p >✅Tiquete aéreo ida y regreso</p>
+                        <p >✅Traslado Aeropuerto - hotel - Aeropuerto </p>
+                        <p >✅Alojamiento 4 días y 4 noches</p>
+                        <p >✅Alimentación (desayuno, almuerzo y cena buffet) </p>
+                        <p >✅Bebidas y cócteles Ilimitados habilitados en el bar </p>
+                        <p >✅Snacks</p>
+                        <p >✅Equipaje de 20 kg </p>
+                        <p >✅Asistencia médica. </p>
+                        <p >✅Seguro hotelero.  </p>
+                        <p >✅Tour de compras, degustación de Ron y Chocolate </p>
+                        <p  > <b>🔺 No incluye</b> <br />
+                            ❌Entrada a los sitios turísticos <br />
+                            ❌ Transporte y alimentación no relacionada, Servicios receptivos </p>
 
-                            <h2 align='center' >Qué Incluye?</h2>
-                            <p >✅Tiquete aéreo ida y regreso</p>
-                            <p >✅Traslado Aeropuerto - hotel - Aeropuerto </p>
-                            <p >✅Alojamiento 4 días y 4 noches</p>
-                            <p >✅Alimentación (desayuno, almuerzo y cena buffet) </p>
-                            <p >✅Bebidas y cócteles Ilimitados habilitados en el bar </p>
-                            <p >✅Snacks</p>
-                            <p >✅Equipaje de 20 kg </p>
-                            <p >✅Asistencia médica. </p>
-                            <p >✅Seguro hotelero.  </p>
-                            <p >✅Tour de compras, degustación de Ron y Chocolate </p>
-                            <p  > <b>🔺 No incluye</b> <br />
-                                ❌Entrada a los sitios turísticos <br />
-                                ❌ Transporte y alimentación no relacionada, Servicios receptivos </p>
-                        </div>
                     </div>
                 </div>
             </div>
 
             <br />
-            <iframe width="700" height="400" src="https://www.youtube.com/embed/_ScTs_YDZsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
+            <div style={{ position: "relative", paddingBottom: "56.25%", height: 0 }}>
+                <iframe src="https://www.youtube.com/embed/_ScTs_YDZsw"
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    style={{
+                        position: "absolute",
+                        top: 0,
+                        left: 0,
+                        width: "100%",
+                        height: "100%",
+                    }}
+
+
+                ></iframe>
+            </div>
             <br />
             <br />
             <div className='servicios'>
@@ -118,7 +132,7 @@ function Tropical() {
                     </p>
                 </div>
             </div>
-        </div>
+        </div >
     )
 }
 

@@ -1,42 +1,43 @@
 import React from 'react'
-
+import BotonWS from "../BotonWS";
 function Tucanes() {
-  return (
-    <div className='justify'>
-            <br />
-            <br />
+    return (
+        <div className='container'>
+            <BotonWS />
             <h1>Hotel Campestre Tucanes</h1>
-            <div className='justify'>
+            <div className='container'>
                 <p >El Hotel Campestre Tucanes en un lugar donde el servicio y la naturaleza se vuelven uno solo para que las palabras, vacaciones, descanso y tranquilidad tengan un verdadero signiﬁcado. </p>
-                <div style={{ display: "flex" }}>
-                    <div id="carouselExample" className="carousel slide ">
-                        <div className="carousel-inner">
-                            <div className="carousel-item active" >
-                                <img src="http://drive.google.com/uc?export=view&id=18Cb_ZgeEucl18ITLOls4Ij9v7_-Rc1B9" className="img-fluid" alt="..." />
+                <div className="row" style={{ display: "flex", alignItems: "center" }}>
+                    <div className="col-md-7">
+                        <div id="carouselExample" className="carousel slide ">
+                            <div className="carousel-inner">
+                                <div className="carousel-item active">
+                                    <img src="http://drive.google.com/uc?export=view&id=18Cb_ZgeEucl18ITLOls4Ij9v7_-Rc1B9" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1cciA5yqSjLxFasOkCr4WVJXBrMPfzl8j" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=17X_Aks2DXbQmZVWrwiZM_5Ev0hWILc_N" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1ZSL4lYFTyJYclWeJa28FIOdh5wCA1KNW" className="img-fluid" alt="..." />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="http://drive.google.com/uc?export=view&id=1RdDYL82qLUJcyq9p8EYrUBuxgMILCnCr" className="img-fluid" alt="..." />
+                                </div>
                             </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1cciA5yqSjLxFasOkCr4WVJXBrMPfzl8j" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=17X_Aks2DXbQmZVWrwiZM_5Ev0hWILc_N" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1ZSL4lYFTyJYclWeJa28FIOdh5wCA1KNW" className="img-fluid" alt="..." />
-                            </div>
-                            <div className="carousel-item">
-                                <img src="http://drive.google.com/uc?export=view&id=1RdDYL82qLUJcyq9p8EYrUBuxgMILCnCr" className="img-fluid" alt="..." />
-                            </div>
+                            <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                                <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span className="visually-hidden">Previous</span>
+                            </button>
+                            <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                                <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span className="visually-hidden">Next</span>
+                            </button>
                         </div>
-                        <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                            <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Previous</span>
-                        </button>
-                        <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                            <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span className="visually-hidden">Next</span>
-                        </button>
                     </div>
-                    <div className=' m-3'>
+                    <div className='col-md-5'>
                         <h2 align='center' >Qué Incluye?</h2>
                         <p >✅Alojamiento ( por noche por persona) </p>
                         <p >✅Desayuno, Almuerzo y cena</p>
@@ -51,7 +52,20 @@ function Tucanes() {
             </div>
 
             <br />
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/_HsMLfKbqxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='video'></iframe>
+            <div style={{ position: "relative", paddingBottom: "56.25%", height: 0 }}>
+                <iframe src="https://www.youtube.com/embed/_HsMLfKbqxM"
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    style={{
+                        position: "absolute",
+                        top: 0,
+                        left: 0,
+                        width: "100%",
+                        height: "100%",
+                    }}
+                ></iframe>
+            </div>
             <br />
             <br />
             <div className='servicios'>
@@ -110,7 +124,7 @@ function Tucanes() {
                 </div>
             </div>
         </div>
-  )
+    )
 }
 
 export default Tucanes

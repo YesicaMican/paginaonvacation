@@ -197,3 +197,31 @@ animation-name: AnimacionDU;
   }
 } */
 
+.fondo {
+  background: fixed;
+}
+
+h1{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  color: darkblue;
+}
+
+h2{
+  font-family:Impact, 'Arial Narrow Bold', sans-serif;
+  color:darkred
+}
+
+p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.BT5 {
+  font-family:Impact, 'Arial Narrow Bold', sans-serif;
+  color:#e42b12
+}
+
+.anuncio {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
