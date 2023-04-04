@@ -11,7 +11,7 @@ function AdModal(props) {
       <a className="btn btn-success"
             href="https://wa.me/573153201677"
             target="_blank" rel="noreferrer"> Lo quiero! Tomalo aquí
-        <img src="http://drive.google.com/uc?export=view&id=1dSPjTBgmRj5l3Y8dFnfdYoOpoHlJquwU" alt="" className="img-fluid" />
+        <img src="http://drive.google.com/uc?export=view&id=1TqcUfDfxzITRoD4MseganR9m27HYFM3_" alt="" className="img-fluid" />
        </a> 
       </Modal.Body>
     </Modal>
